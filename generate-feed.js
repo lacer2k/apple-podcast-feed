@@ -1,5 +1,6 @@
 const axios = require('axios');
 const fs = require('fs');
+const path = require('path');
 const xml2js = require('xml2js');
 
 const FEED_URL = 'https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss';
@@ -16,13 +17,11 @@ async function main() {
   const rss = result.rss;
   const channel = rss.channel[0];
 
-  // Add iTunes namespace
   rss.$ = {
     'xmlns:itunes': 'http://www.itunes.com/dtds/podcast-1.0.dtd',
     version: '2.0'
   };
 
-  // Add Apple-required fields
   channel['itunes:author'] = ['Livio Acerbo'];
   channel['itunes:summary'] = [channel.description ? channel.description[0] : ''];
   channel['itunes:explicit'] = ['no'];
@@ -31,16 +30,14 @@ async function main() {
     'itunes:email': ['livioacerbo@mac.com']
   }];
 
-  // ⚠️ Do NOT add or override <itunes:image>, let SoundCloud’s image stay intact
-
-  // Add iTunes:explicit tag to each episode
   for (const item of channel.item) {
     item['itunes:explicit'] = ['no'];
   }
 
   const xml = builder.buildObject(result);
-  fs.writeFileSync('feed.xml', xml);
-  console.log('✅ Apple-compatible feed saved as feed.xml');
+  const outPath = path.join(process.cwd(), 'feed.xml');
+  fs.writeFileSync(outPath, xml);
+  console.log('✅ feed.xml created at:', outPath);
 }
 
 main().catch(console.error);
