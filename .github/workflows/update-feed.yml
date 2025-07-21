@@ -1,9 +1,9 @@
-name: Update Apple Podcast Feed
+name: Update feed.xml for Apple Podcasts
 
 on:
   schedule:
-    - cron: '0 3 * * *' # Daily at 03:00 UTC
-  workflow_dispatch:     # Manual run support
+    - cron: '0 3 * * *'  # Daily
+  workflow_dispatch:
 
 jobs:
   build:
@@ -21,15 +21,20 @@ jobs:
       - name: Install Dependencies
         run: npm install axios xml2js
 
-      - name: Generate Updated RSS Feed
+      - name: Generate Updated feed.xml
         run: node generate-feed.js
 
-      - name: Commit & Push feed.xml
+      - name: Check if feed.xml changed
+        id: gitcheck
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add feed.xml || exit 0
-          git diff --cached --quiet && echo "No changes" && exit 0
+          git add feed.xml || true
+          git diff --cached --quiet && echo "no_changes=true" >> $GITHUB_ENV || echo "no_changes=false" >> $GITHUB_ENV
+
+      - name: Commit & Push if changed
+        if: env.no_changes == 'false'
+        run: |
           git commit -m "🤖 Update feed.xml (auto)"
           git pull --rebase
           git push
