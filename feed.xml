@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Sun, 27 Jul 2025 19:49:21 +0000</pubDate>
-    <lastBuildDate>Sun, 27 Jul 2025 19:49:21 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Jul 2025 07:05:44 +0000</pubDate>
+    <lastBuildDate>Mon, 28 Jul 2025 07:05:44 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2137639320</guid>
+      <title>Global Crises &amp; Diplomacy: July 28 Reflection #GlobalNews #Diplomacy</title>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-crises-diplomacy-july</link>
+      <itunes:duration>00:05:25</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d; Unravel the world’s tangled threads with our July 28, 2025, News Reflection! From Gaza’s crisis and dwindling aid, to the tense Thai-Cambodian peace talks and the monumental US-EU trade deal—our coverage spans the globe. Delve into Taiwan’s military maneuvers and Eastern Europe’s fierce struggles, along with heart-wrenching accident reports from Peru and Germany. Discover how these events ripple through everyday lives. Stay in the loop, spread the word, and let’s explore these pivotal times together! #GlobalNews #GazaCrisis #SoutheastAsiaConflict #US_EUTradeDeal #TaiwanMilitaryDrills #UkraineRussiaWar #HumanitarianAid #Diplomacy2025 #BreakingNews #WorldEvents</itunes:summary>
+      <itunes:subtitle>&#x1f30d; Unravel the world’s tangled threads with our J…</itunes:subtitle>
+      <description>&#x1f30d; Unravel the world’s tangled threads with our July 28, 2025, News Reflection! From Gaza’s crisis and dwindling aid, to the tense Thai-Cambodian peace talks and the monumental US-EU trade deal—our coverage spans the globe. Delve into Taiwan’s military maneuvers and Eastern Europe’s fierce struggles, along with heart-wrenching accident reports from Peru and Germany. Discover how these events ripple through everyday lives. Stay in the loop, spread the word, and let’s explore these pivotal times together! #GlobalNews #GazaCrisis #SoutheastAsiaConflict #US_EUTradeDeal #TaiwanMilitaryDrills #UkraineRussiaWar #HumanitarianAid #Diplomacy2025 #BreakingNews #WorldEvents</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2137639320-greengroundit-global-crises-diplomacy-july.mp3" length="1954774" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2137220565</guid>
       <title>Gaza Crisis Insights: Ceasefire &amp; Culture Highlights July 2025 #GlobalReflections #GazaCrisis #Cease</title>
