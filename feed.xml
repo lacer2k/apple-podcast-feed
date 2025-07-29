@@ -3,10 +3,10 @@
   <channel>
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss" rel="self" type="application/rss+xml" />
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
-    <title>Greenground // Soundcloud</title>
+    <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Mon, 28 Jul 2025 07:05:44 +0000</pubDate>
-    <lastBuildDate>Mon, 28 Jul 2025 07:05:44 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Jul 2025 07:02:10 +0000</pubDate>
+    <lastBuildDate>Tue, 29 Jul 2025 07:02:10 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2138248116</guid>
+      <title>Thailand-Cambodia Ceasefire &amp; Global Crisis Insights | July 29, 2025 #WorldNews #Ceasefire #GlobalUp</title>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/thailand-cambodia-ceasefire</link>
+      <itunes:duration>00:04:52</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d; Dive into today’s essential global updates: July 29, 2025! Witness the historic Thailand-Cambodia ceasefire that halts brutal clashes. Uncover the turmoil of the Bangkok shooting and Turkey’s wildfires. Eastern Europe tensions heat up with Russia-Ukraine, while Europe urges a Gaza ceasefire. Key political shifts in the Philippines unfold, along with insights on China’s media crackdowns and rising North Korean tensions. Stay informed—understand the pressing world events shaping our future. Subscribe now for full insights! #ThailandCambodiaCeasefire #BangkokShooting #TurkeyWildfires #RussiaUkraineConflict #GazaCeasefireCall #PhilippinesPolitics #ChinaMediaCensorship #NorthKoreaTensions #GlobalNewsUpdate #July2025News</itunes:summary>
+      <itunes:subtitle>&#x1f30d; Dive into today’s essential global updates: Ju…</itunes:subtitle>
+      <description>&#x1f30d; Dive into today’s essential global updates: July 29, 2025! Witness the historic Thailand-Cambodia ceasefire that halts brutal clashes. Uncover the turmoil of the Bangkok shooting and Turkey’s wildfires. Eastern Europe tensions heat up with Russia-Ukraine, while Europe urges a Gaza ceasefire. Key political shifts in the Philippines unfold, along with insights on China’s media crackdowns and rising North Korean tensions. Stay informed—understand the pressing world events shaping our future. Subscribe now for full insights! #ThailandCambodiaCeasefire #BangkokShooting #TurkeyWildfires #RussiaUkraineConflict #GazaCeasefireCall #PhilippinesPolitics #ChinaMediaCensorship #NorthKoreaTensions #GlobalNewsUpdate #July2025News</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2138248116-greengroundit-thailand-cambodia-ceasefire.mp3" length="1754182" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2137639320</guid>
       <title>Global Crises &amp; Diplomacy: July 28 Reflection #GlobalNews #Diplomacy</title>
