@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Tue, 29 Jul 2025 07:02:10 +0000</pubDate>
-    <lastBuildDate>Tue, 29 Jul 2025 07:02:10 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Jul 2025 07:01:58 +0000</pubDate>
+    <lastBuildDate>Wed, 30 Jul 2025 07:01:58 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2138803602</guid>
+      <title>Global Tensions Unpacked: July 30, 2025 #WorldNews #GlobalEvents</title>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-tensions-unpacked-july</link>
+      <itunes:duration>00:04:46</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d; Dive into the stories shaping our world on July 30, 2025! From the Gaza humanitarian crisis and Middle East peace talks to a massive 8.7 quake off Russia, triggering tsunami alarms. Discover the fragile Thailand-Cambodia ceasefire, UK’s bold step for Palestinian recognition, and intensifying U.S.-China tensions over Russian oil. Tune in for a deep reflection on political conflict, natural disasters, and the human spirit’s quest for peace and resilience. Share your thoughts and stay updated with our daily insights! #WorldNews #GazaCrisis #MiddleEastPeace #RussiaEarthquake #TsunamiAlert #ThailandCambodiaCeasefire #UKDiplomacy #ChinaOilSanctions #GlobalHumanitarianCrisis &#x1f4ac;</itunes:summary>
+      <itunes:subtitle>&#x1f30d; Dive into the stories shaping our world on Jul…</itunes:subtitle>
+      <description>&#x1f30d; Dive into the stories shaping our world on July 30, 2025! From the Gaza humanitarian crisis and Middle East peace talks to a massive 8.7 quake off Russia, triggering tsunami alarms. Discover the fragile Thailand-Cambodia ceasefire, UK’s bold step for Palestinian recognition, and intensifying U.S.-China tensions over Russian oil. Tune in for a deep reflection on political conflict, natural disasters, and the human spirit’s quest for peace and resilience. Share your thoughts and stay updated with our daily insights! #WorldNews #GazaCrisis #MiddleEastPeace #RussiaEarthquake #TsunamiAlert #ThailandCambodiaCeasefire #UKDiplomacy #ChinaOilSanctions #GlobalHumanitarianCrisis &#x1f4ac;</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2138803602-greengroundit-global-tensions-unpacked-july.mp3" length="1721062" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2138248116</guid>
       <title>Thailand-Cambodia Ceasefire &amp; Global Crisis Insights | July 29, 2025 #WorldNews #Ceasefire #GlobalUp</title>
