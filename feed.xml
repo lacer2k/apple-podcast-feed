@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Fri, 01 Aug 2025 07:04:44 +0000</pubDate>
-    <lastBuildDate>Fri, 01 Aug 2025 07:04:44 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Aug 2025 07:05:30 +0000</pubDate>
+    <lastBuildDate>Sat, 02 Aug 2025 07:05:30 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2140662906</guid>
+      <title>Resilience Amid Global Struggles: Ukraine, Burkina Faso, Gaza #Ukraine #Resilience #GlobalIssues</title>
+      <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/resilience-amid-global</link>
+      <itunes:duration>00:05:35</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Witness the world’s resilience amid global adversity on August 2, 2025. Experience the intensity from Ukraine’s escalating drone attacks to Burkina Faso’s militant violence, uncover humanitarian crises in Gaza, and witness social unrest in Serbia and hate attacks in Berlin. Feel the tremors from a powerful earthquake near Russia and debunk eclipse misinformation with NASA insights. Dive into these critical stories with us—like, comment, and subscribe for expert analysis and compassionate storytelling. #UkraineConflict #BurkinaFasoAttack #GazaCrisis #BerlinHateAttack #RussiaEarthquake #SerbiaProtests #HumanitarianNews #GlobalResilience #MisinformationAlert #August2025Updates</itunes:summary>
+      <itunes:subtitle>Witness the world’s resilience amid global advers…</itunes:subtitle>
+      <description>Witness the world’s resilience amid global adversity on August 2, 2025. Experience the intensity from Ukraine’s escalating drone attacks to Burkina Faso’s militant violence, uncover humanitarian crises in Gaza, and witness social unrest in Serbia and hate attacks in Berlin. Feel the tremors from a powerful earthquake near Russia and debunk eclipse misinformation with NASA insights. Dive into these critical stories with us—like, comment, and subscribe for expert analysis and compassionate storytelling. #UkraineConflict #BurkinaFasoAttack #GazaCrisis #BerlinHateAttack #RussiaEarthquake #SerbiaProtests #HumanitarianNews #GlobalResilience #MisinformationAlert #August2025Updates</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2140662906-greengroundit-resilience-amid-global.mp3" length="2013094" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2140108911</guid>
       <title>World Update: August 2025 Global Tensions &amp; Diplomacy #GlobalN</title>
