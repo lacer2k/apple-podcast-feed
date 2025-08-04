@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Sun, 03 Aug 2025 07:05:24 +0000</pubDate>
-    <lastBuildDate>Sun, 03 Aug 2025 07:05:24 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Aug 2025 10:04:32 +0000</pubDate>
+    <lastBuildDate>Mon, 04 Aug 2025 10:04:32 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,34 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2147525721</guid>
+      <title>Avatar: Fire and Ash - Pandora’s Epic Tale of Grief and Fury | 2025 Deep Dive #AvatarFireAndAsh #Ava</title>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/avatar-fire-and-ash-pandoras</link>
+      <itunes:duration>00:05:16</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Dive into Avatar: Fire and Ash with our epic analysis! Discover Pandora’s transformation as the Ash People rise. Explore jaw-dropping visuals, gripping plot twists, and game-changing fan theories. Join us in unraveling Jake and Neytiri’s new journey in this 2025 mega-hit. Comment with your theories and subscribe for more deep dives! &#x1f30b;&#x1f525; #AvatarFireAndAsh #Avatar3 #Pandora #JamesCameron #SciFiMovies #MovieTheories #FilmAnalysis #CinematicUniverse #EpicMovies #SoundcloudDiscover #CinephilesUnite #BlockbusterJourney #FilmBuffs #ExploreTheUnknown #MovieMagic</itunes:summary>
+      <itunes:subtitle>Dive into Avatar: Fire and Ash with our epic anal…</itunes:subtitle>
+      <description>Dive into Avatar: Fire and Ash with our epic analysis! Discover Pandora’s transformation as the Ash People rise. Explore jaw-dropping visuals, gripping plot twists, and game-changing fan theories. Join us in unraveling Jake and Neytiri’s new journey in this 2025 mega-hit. Comment with your theories and subscribe for more deep dives! &#x1f30b;&#x1f525; #AvatarFireAndAsh #Avatar3 #Pandora #JamesCameron #SciFiMovies #MovieTheories #FilmAnalysis #CinematicUniverse #EpicMovies #SoundcloudDiscover #CinephilesUnite #BlockbusterJourney #FilmBuffs #ExploreTheUnknown #MovieMagic</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2147525721-greengroundit-avatar-fire-and-ash-pandoras.mp3" length="1898441" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2141501019</guid>
+      <title>Global Resilience: Aug 4, 2025 Daily Insight #EarthquakeUpdate #GlobalNews</title>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-resilience-aug-4-2025</link>
+      <itunes:duration>00:04:28</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d; Dive deep into August 4, 2025’s powerful global stories! Explore a 7.0 earthquake near Kuril Islands, a miraculous child rescue in New Zealand, gripping Middle East hostage crises, Ukraine’s anti-corruption battle, and Myanmar’s electoral law drama. Be inspired by Pope Leo XIV urging young Catholics to action. Stay informed and connected with our reflection on nature’s forces, human courage, and political challenges. &#x1f6a8; Join us and engage with the stories impacting our world today! #GlobalNews #EarthquakeUpdate #ChildProtection #MiddleEastConflict #UkraineCorruption #MyanmarElection #USPolitics #PopeLeoXIV #HumanResilience #WorldEvents2025</itunes:summary>
+      <itunes:subtitle>&#x1f30d; Dive deep into August 4, 2025’s powerful globa…</itunes:subtitle>
+      <description>&#x1f30d; Dive deep into August 4, 2025’s powerful global stories! Explore a 7.0 earthquake near Kuril Islands, a miraculous child rescue in New Zealand, gripping Middle East hostage crises, Ukraine’s anti-corruption battle, and Myanmar’s electoral law drama. Be inspired by Pope Leo XIV urging young Catholics to action. Stay informed and connected with our reflection on nature’s forces, human courage, and political challenges. &#x1f6a8; Join us and engage with the stories impacting our world today! #GlobalNews #EarthquakeUpdate #ChildProtection #MiddleEastConflict #UkraineCorruption #MyanmarElection #USPolitics #PopeLeoXIV #HumanResilience #WorldEvents2025</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2141501019-greengroundit-global-resilience-aug-4-2025.mp3" length="1608886" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2141087523</guid>
       <title>World Crisis Unfolds: Nuclear Moves, Middle East Shifts &amp; Work Laws #GlobalTensions #CurrentEvents</title>
