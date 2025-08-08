@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Thu, 07 Aug 2025 07:05:40 +0000</pubDate>
-    <lastBuildDate>Thu, 07 Aug 2025 07:05:40 +0000</lastBuildDate>
+    <pubDate>Fri, 08 Aug 2025 10:03:37 +0000</pubDate>
+    <lastBuildDate>Fri, 08 Aug 2025 10:03:37 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2149942983</guid>
+      <title>Global Trade Shifts &amp; Climate Innovations - Key Events Aug 8, 2025 #GlobalTrade #ClimateChange</title>
+      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-trade-shifts-climate</link>
+      <itunes:duration>00:05:26</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Global Trade Shifts &amp; Climate Innovations: Key Events on Aug 8, 2025 &#x1f30d;&#x1f1fa;&#x1f1f8;&#x1f6e2;️&#x1f916; Dive into a pivotal day where economics, politics, and cutting-edge climate innovations collide. Discover how sweeping US tariffs impact 60+ nations and how BRICS leaders rally strategic responses. Delve into India pausing Russian oil imports amidst rising tensions and explore South Korea’s AI-driven cooling solutions combating extreme heat. Reflect on the political ripple effects from Myanmar’s acting president’s passing. Engage with us as we unpack these shifts shaping global leadership, trade, energy, and tech. Like, comment, and share your thoughts! #GlobalTrade #EconomicTariffs #USPolitics #BRICSAlliance #IndiaEnergy #MyanmarNews #ClimateInnovation #SouthKoreaHeatwave #Geopolitics2025 #TechForClimate</itunes:summary>
+      <itunes:subtitle>Global Trade Shifts &amp; Climate Innovations: Key Ev…</itunes:subtitle>
+      <description>Global Trade Shifts &amp; Climate Innovations: Key Events on Aug 8, 2025 &#x1f30d;&#x1f1fa;&#x1f1f8;&#x1f6e2;️&#x1f916; Dive into a pivotal day where economics, politics, and cutting-edge climate innovations collide. Discover how sweeping US tariffs impact 60+ nations and how BRICS leaders rally strategic responses. Delve into India pausing Russian oil imports amidst rising tensions and explore South Korea’s AI-driven cooling solutions combating extreme heat. Reflect on the political ripple effects from Myanmar’s acting president’s passing. Engage with us as we unpack these shifts shaping global leadership, trade, energy, and tech. Like, comment, and share your thoughts! #GlobalTrade #EconomicTariffs #USPolitics #BRICSAlliance #IndiaEnergy #MyanmarNews #ClimateInnovation #SouthKoreaHeatwave #Geopolitics2025 #TechForClimate</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2149942983-greengroundit-global-trade-shifts-climate.mp3" length="1962597" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2149238121</guid>
       <title>Top Global Shifts &amp; Crises: Must-Know Headlines for August 2025 #GlobalNews</title>
