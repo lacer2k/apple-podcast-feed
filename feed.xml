@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Fri, 08 Aug 2025 10:03:37 +0000</pubDate>
-    <lastBuildDate>Fri, 08 Aug 2025 10:03:37 +0000</lastBuildDate>
+    <pubDate>Sat, 09 Aug 2025 07:05:42 +0000</pubDate>
+    <lastBuildDate>Sat, 09 Aug 2025 07:05:42 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2150392491</guid>
+      <title>Global Shifts &amp; Challenges 2025 Insight August 9 #GlobalNews #International #Trends</title>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-shifts-challenges-2025</link>
+      <itunes:duration>00:05:07</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>**Global Shifts &amp; Challenges: August 9, 2025 Insight** &#x1f680; Dive into crucial global events shaping our world! From Australia’s inclusive immigration changes &amp; Pakistan’s security lockdown; to Israel’s bold Gaza strategy &amp; Germany’s arms embargo. Explore Brazil’s Amazon bill veto, potential Trump-Putin dialogue in the UAE, and the historic docking of Japanese ships in New Zealand. We also reflect on a tragic Kenyan bus accident. Stay informed with this engaging global update connecting politics, security, and human stories. &#x1f30d; Don’t miss out—like, comment &amp; subscribe to join the conversation! &#x1f517; #GlobalNews #WorldUpdate2025 #InternationalAffairs #AustraliaImmigration #MiddleEastConflict #USRussiaDiplomacy #AmazonProtection #PakistanSecurity #KenyaTragedy #JapanNewZealandTies</itunes:summary>
+      <itunes:subtitle>**Global Shifts &amp; Challenges: August 9, 2025 Insi…</itunes:subtitle>
+      <description>**Global Shifts &amp; Challenges: August 9, 2025 Insight** &#x1f680; Dive into crucial global events shaping our world! From Australia’s inclusive immigration changes &amp; Pakistan’s security lockdown; to Israel’s bold Gaza strategy &amp; Germany’s arms embargo. Explore Brazil’s Amazon bill veto, potential Trump-Putin dialogue in the UAE, and the historic docking of Japanese ships in New Zealand. We also reflect on a tragic Kenyan bus accident. Stay informed with this engaging global update connecting politics, security, and human stories. &#x1f30d; Don’t miss out—like, comment &amp; subscribe to join the conversation! &#x1f517; #GlobalNews #WorldUpdate2025 #InternationalAffairs #AustraliaImmigration #MiddleEastConflict #USRussiaDiplomacy #AmazonProtection #PakistanSecurity #KenyaTragedy #JapanNewZealandTies</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2150392491-greengroundit-global-shifts-challenges-2025.mp3" length="1848502" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2149942983</guid>
       <title>Global Trade Shifts &amp; Climate Innovations - Key Events Aug 8, 2025 #GlobalTrade #ClimateChange</title>
