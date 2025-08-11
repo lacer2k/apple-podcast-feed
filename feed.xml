@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Sun, 10 Aug 2025 10:04:22 +0000</pubDate>
-    <lastBuildDate>Sun, 10 Aug 2025 10:04:22 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Aug 2025 07:05:08 +0000</pubDate>
+    <lastBuildDate>Mon, 11 Aug 2025 07:05:08 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2151216696</guid>
+      <title>Global Tensions &amp; Diplomacy Unveiled: Insights Aug 11, 2025 #GlobalPolitics</title>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-tensions-diplomacy</link>
+      <itunes:duration>00:05:28</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Experience the pulse of global politics on August 11, 2025! From Trump backing Israel’s Gaza strategy amid a humanitarian crisis to his peace talks with Putin over Ukraine’s turmoil. Discover China’s tech anxiety over Nvidia chips, Germany’s policy shake-ups, and a hopeful South Korea-Japan summit. Dive into maritime conflicts in the Red Sea, the MH17 verdict, and a tragic LA tunnel collapse. Unveil the power plays, diplomacy, and resilience that shape our world. Engage, subscribe, and share your voice—you’re part of this crucial dialogue! #GlobalPolitics #IsraelGazaConflict #TrumpPutinTalks #UkraineWar #TechSecurity #GermanyReforms #SouthKoreaJapanSummit #MaritimeSecurity #MH17Ruling #WorldNews2025</itunes:summary>
+      <itunes:subtitle>Experience the pulse of global politics on August…</itunes:subtitle>
+      <description>Experience the pulse of global politics on August 11, 2025! From Trump backing Israel’s Gaza strategy amid a humanitarian crisis to his peace talks with Putin over Ukraine’s turmoil. Discover China’s tech anxiety over Nvidia chips, Germany’s policy shake-ups, and a hopeful South Korea-Japan summit. Dive into maritime conflicts in the Red Sea, the MH17 verdict, and a tragic LA tunnel collapse. Unveil the power plays, diplomacy, and resilience that shape our world. Engage, subscribe, and share your voice—you’re part of this crucial dialogue! #GlobalPolitics #IsraelGazaConflict #TrumpPutinTalks #UkraineWar #TechSecurity #GermanyReforms #SouthKoreaJapanSummit #MaritimeSecurity #MH17Ruling #WorldNews2025</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2151216696-greengroundit-global-tensions-diplomacy.mp3" length="1969030" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2150834805</guid>
       <title>Palestinian Pele’s Legacy: Global Conflicts &amp; Human Stories #SoundCloud #WorldStories</title>
