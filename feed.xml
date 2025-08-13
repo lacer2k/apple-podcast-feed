@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Tue, 12 Aug 2025 10:02:48 +0000</pubDate>
-    <lastBuildDate>Tue, 12 Aug 2025 10:02:48 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Aug 2025 07:07:50 +0000</pubDate>
+    <lastBuildDate>Wed, 13 Aug 2025 07:07:50 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2152365042</guid>
+      <title>Global Diplomacy &amp; Tech Giants: August 13, 2025 News Recap #GlobalNews #TechGiants</title>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-diplomacy-tech-giants</link>
+      <itunes:duration>00:06:22</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>**Description:** &#x1f30d; Dive into the heartbeat of the world with today’s riveting global stories, from vital US-Pakistan counterterrorism talks tackling militant threats to Pakistan standing firm on the Indus River dispute. Discover the pulse of diplomacy in South Asia, the sorrow of a Colombian bullfighting tragedy, and Balochistan’s conflict drawing new US terror designations. Uncover the tech shocker of a $34.5B AI bid for Google Chrome and a historic meet between South Korea’s president and ex-US President Trump. Also, a deadly US steel plant blast and the UN’s poignant reaction to a journalist tragedy. Be informed, engaged, and part of the global dialogue! &#x1f310; #GlobalNews #DiplomacyUpdate #Counterterrorism #TechInnovation #PakistanUS</itunes:summary>
+      <itunes:subtitle>**Description:** &#x1f30d; Dive into the heartbeat of th…</itunes:subtitle>
+      <description>**Description:** &#x1f30d; Dive into the heartbeat of the world with today’s riveting global stories, from vital US-Pakistan counterterrorism talks tackling militant threats to Pakistan standing firm on the Indus River dispute. Discover the pulse of diplomacy in South Asia, the sorrow of a Colombian bullfighting tragedy, and Balochistan’s conflict drawing new US terror designations. Uncover the tech shocker of a $34.5B AI bid for Google Chrome and a historic meet between South Korea’s president and ex-US President Trump. Also, a deadly US steel plant blast and the UN’s poignant reaction to a journalist tragedy. Be informed, engaged, and part of the global dialogue! &#x1f310; #GlobalNews #DiplomacyUpdate #Counterterrorism #TechInnovation #PakistanUS</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2152365042-greengroundit-global-diplomacy-tech-giants.mp3" length="2296486" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2151856665</guid>
       <title>Global Crisis &amp; Diplomacy 2025: From Gaza Challenges to Olympic Dreams #GazaCrisis #Olympics2025</title>
