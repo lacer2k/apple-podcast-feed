@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Wed, 13 Aug 2025 07:07:50 +0000</pubDate>
-    <lastBuildDate>Wed, 13 Aug 2025 07:07:50 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 07:04:17 +0000</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 07:04:17 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2152890279</guid>
+      <title>Brazil’s Bold Moves &amp; World Records: Global Reflections Aug 14, 2025 #Brazil #RecordBreaking</title>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/brazils-bold-moves-world</link>
+      <itunes:duration>00:05:51</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Experience a whirlwind tour of global events on August 14, 2025, right here! &#x1f30d;✨ Unravel Brazil’s daring $5.5B export strategy amid US tariffs, feel the tension in the Middle East, and discover hope blooming in Guatemala’s prisons. Witness Europe’s battle against wildfires as climate ramifications rage, and cheer for India’s audacious 2030 Commonwealth Games bid! Cricket enthusiasts, rejoice in the West Indies’ epic series victory over Pakistan after 34 long years. Celebrate Mondo Duplantis’s awe-inspiring pole vault world record, and delve into pressing social issues like rising racial intolerance in Dublin and digital communication restrictions in Russia. &#x1f310; Dive deep, stay informed, and ride the waves of change with us. Like, comment, and subscribe! &#x1f3a7; #GlobalNews #BrazilEconomy #MiddleEastConflict #WildfiresEurope #CricketHistory</itunes:summary>
+      <itunes:subtitle>Experience a whirlwind tour of global events on A…</itunes:subtitle>
+      <description>Experience a whirlwind tour of global events on August 14, 2025, right here! &#x1f30d;✨ Unravel Brazil’s daring $5.5B export strategy amid US tariffs, feel the tension in the Middle East, and discover hope blooming in Guatemala’s prisons. Witness Europe’s battle against wildfires as climate ramifications rage, and cheer for India’s audacious 2030 Commonwealth Games bid! Cricket enthusiasts, rejoice in the West Indies’ epic series victory over Pakistan after 34 long years. Celebrate Mondo Duplantis’s awe-inspiring pole vault world record, and delve into pressing social issues like rising racial intolerance in Dublin and digital communication restrictions in Russia. &#x1f310; Dive deep, stay informed, and ride the waves of change with us. Like, comment, and subscribe! &#x1f3a7; #GlobalNews #BrazilEconomy #MiddleEastConflict #WildfiresEurope #CricketHistory</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2152890279-greengroundit-brazils-bold-moves-world.mp3" length="2110085" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2152365042</guid>
       <title>Global Diplomacy &amp; Tech Giants: August 13, 2025 News Recap #GlobalNews #TechGiants</title>
