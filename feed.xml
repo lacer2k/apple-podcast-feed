@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Thu, 14 Aug 2025 07:04:17 +0000</pubDate>
-    <lastBuildDate>Thu, 14 Aug 2025 07:04:17 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Aug 2025 07:07:09 +0000</pubDate>
+    <lastBuildDate>Fri, 15 Aug 2025 07:07:09 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,26 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2153616978</guid>
+      <title>Global Diplomacy Update: Middle East Tensions &amp; Nuclear Talks August 2025 #GlobalAffairs #Diplomacy</title>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-diplomacy-update-middle</link>
+      <itunes:duration>00:05:16</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f517; **Global Diplomacy &amp; Conflict Update: August 15, 2025** &#x1f517; &#x1f1fa;&#x1f1f3; Dive into the day’s critical global stories shaping international peace and security. Unpack Germany’s stance against Israel’s West Bank settlements and the U.S.-Russia nuclear treaty talks. Understand the implications of the $346M U.S. arms sale to Nigeria, and what the Taliban anniversary flower showers mean in conflict zones. Also, explore South China Sea tensions and India’s bold 79th Independence Day moves in defense and tech. Stay informed with expert insights on these vital events—watch now to see how today’s decisions affect our world! 
+
+&#x1f3a7; Like, comment, subscribe for more global analysis! &#x1f30d;  
+#GlobalDiplomacy #MiddleEastCrisis #NuclearTreaty #USNigeriaArmsDeal #TalibanAnniversary #SouthChinaSea #IndiaIndependenceDay</itunes:summary>
+      <itunes:subtitle>&#x1f517; **Global Diplomacy &amp; Conflict Update: August 1…</itunes:subtitle>
+      <description>&#x1f517; **Global Diplomacy &amp; Conflict Update: August 15, 2025** &#x1f517; &#x1f1fa;&#x1f1f3; Dive into the day’s critical global stories shaping international peace and security. Unpack Germany’s stance against Israel’s West Bank settlements and the U.S.-Russia nuclear treaty talks. Understand the implications of the $346M U.S. arms sale to Nigeria, and what the Taliban anniversary flower showers mean in conflict zones. Also, explore South China Sea tensions and India’s bold 79th Independence Day moves in defense and tech. Stay informed with expert insights on these vital events—watch now to see how today’s decisions affect our world! 
+
+&#x1f3a7; Like, comment, subscribe for more global analysis! &#x1f30d;  
+#GlobalDiplomacy #MiddleEastCrisis #NuclearTreaty #USNigeriaArmsDeal #TalibanAnniversary #SouthChinaSea #IndiaIndependenceDay</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2153616978-greengroundit-global-diplomacy-update-middle.mp3" length="1899434" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2152890279</guid>
       <title>Brazil’s Bold Moves &amp; World Records: Global Reflections Aug 14, 2025 #Brazil #RecordBreaking</title>
