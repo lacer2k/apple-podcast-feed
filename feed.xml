@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Fri, 15 Aug 2025 07:07:09 +0000</pubDate>
-    <lastBuildDate>Fri, 15 Aug 2025 07:07:09 +0000</lastBuildDate>
+    <pubDate>Sat, 16 Aug 2025 07:05:49 +0000</pubDate>
+    <lastBuildDate>Sat, 16 Aug 2025 07:05:49 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,24 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2154122196</guid>
+      <title>Global Power Shifts &amp; AI Ethics: World News Spotlight 08/16/2025 #ClimateCrisis #AIEthics</title>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-power-shifts-ai-ethics</link>
+      <itunes:duration>00:04:32</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>**Global Power Plays, Climate Crises &amp; AI Ethics: World News Spotlight – August 16, 2025** 
+
+Dive deep into the world’s pulse this August 16, 2025! &#x1f30d;✨ From the heated Trump-Putin summit amid the Ukraine conflict to South Asia’s relentless floods signaling a dire climate crisis. Witness political upheaval in Turkey, while a tremor shakes Queensland. Brace for Hurricane Erin’s fury on the U.S. East Coast, and discover the latest in AI ethics with an Australian court’s landmark apology. An aviation incident in Manchester highlights safety’s paramount importance. Stay informed on global affairs where diplomacy, nature, and technology intertwine! Like, comment, and subscribe for your daily dose of insightful news! &#x1f3a7;&#x1f4f0; #GlobalNews #UkraineConflict #SouthAsiaFloods #TurkeyPolitics #QueenslandEarthquake</itunes:summary>
+      <itunes:subtitle>**Global Power Plays, Climate Crises &amp; AI Ethics:…</itunes:subtitle>
+      <description>**Global Power Plays, Climate Crises &amp; AI Ethics: World News Spotlight – August 16, 2025** 
+
+Dive deep into the world’s pulse this August 16, 2025! &#x1f30d;✨ From the heated Trump-Putin summit amid the Ukraine conflict to South Asia’s relentless floods signaling a dire climate crisis. Witness political upheaval in Turkey, while a tremor shakes Queensland. Brace for Hurricane Erin’s fury on the U.S. East Coast, and discover the latest in AI ethics with an Australian court’s landmark apology. An aviation incident in Manchester highlights safety’s paramount importance. Stay informed on global affairs where diplomacy, nature, and technology intertwine! Like, comment, and subscribe for your daily dose of insightful news! &#x1f3a7;&#x1f4f0; #GlobalNews #UkraineConflict #SouthAsiaFloods #TurkeyPolitics #QueenslandEarthquake</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2154122196-greengroundit-global-power-shifts-ai-ethics.mp3" length="1637830" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2153616978</guid>
       <title>Global Diplomacy Update: Middle East Tensions &amp; Nuclear Talks August 2025 #GlobalAffairs #Diplomacy</title>
