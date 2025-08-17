@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Sat, 16 Aug 2025 07:05:49 +0000</pubDate>
-    <lastBuildDate>Sat, 16 Aug 2025 07:05:49 +0000</lastBuildDate>
+    <pubDate>Sun, 17 Aug 2025 07:05:45 +0000</pubDate>
+    <lastBuildDate>Sun, 17 Aug 2025 07:05:45 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2154518532</guid>
+      <title>Geopolitical Shifts &amp; Peace Talks: Global Power Dynamics Explained #Geopolitics #PeaceTalks #GPN2025</title>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/geopolitical-shifts-peace</link>
+      <itunes:duration>00:04:54</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f50a;&#x1f3a7; Experience a deep dive into the heart of today’s most crucial global shifts: "Global Power Struggles &amp; Peace Talks: Major Geopolitical Shifts Explained – August 17, 2025." Navigate the evolving power dynamics from Eastern Europe to the Americas and Africa. Explore Putin’s strategic chessboard over Ukraine’s Donetsk and Luhansk, Trump’s unexpected peace strategies, Serbia’s intense protests, Bolivia’s political upheaval with Evo Morales, and Nigeria’s militant crackdowns. &#x1f30d;✨ This epic journey through geopolitical turmoil will keep you on the edge of your seat. Tune in to understand how these events are molding our world. &#x1f4f0;&#x1f44f; Engage with us by liking, commenting, and following for more essential updates on global affairs! #Geopolitics #UkraineConflict #PutinTrumpSummit #SerbiaProtests #BoliviaPolitics</itunes:summary>
+      <itunes:subtitle>&#x1f50a;&#x1f3a7; Experience a deep dive into the heart of tod…</itunes:subtitle>
+      <description>&#x1f50a;&#x1f3a7; Experience a deep dive into the heart of today’s most crucial global shifts: "Global Power Struggles &amp; Peace Talks: Major Geopolitical Shifts Explained – August 17, 2025." Navigate the evolving power dynamics from Eastern Europe to the Americas and Africa. Explore Putin’s strategic chessboard over Ukraine’s Donetsk and Luhansk, Trump’s unexpected peace strategies, Serbia’s intense protests, Bolivia’s political upheaval with Evo Morales, and Nigeria’s militant crackdowns. &#x1f30d;✨ This epic journey through geopolitical turmoil will keep you on the edge of your seat. Tune in to understand how these events are molding our world. &#x1f4f0;&#x1f44f; Engage with us by liking, commenting, and following for more essential updates on global affairs! #Geopolitics #UkraineConflict #PutinTrumpSummit #SerbiaProtests #BoliviaPolitics</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2154518532-greengroundit-geopolitical-shifts-peace.mp3" length="1764694" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2154122196</guid>
       <title>Global Power Shifts &amp; AI Ethics: World News Spotlight 08/16/2025 #ClimateCrisis #AIEthics</title>
