@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Tue, 19 Aug 2025 07:04:14 +0000</pubDate>
-    <lastBuildDate>Tue, 19 Aug 2025 07:04:14 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Aug 2025 07:05:13 +0000</pubDate>
+    <lastBuildDate>Wed, 20 Aug 2025 07:05:13 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2156217699</guid>
+      <title>Global Conflict &amp; Diplomacy Update 8/20/25 #UkraineConflict #UNDe</title>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-conflict-diplomacy</link>
+      <itunes:duration>00:03:09</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d; Stay ahead with today’s Global Conflict and Diplomacy Update – August 20, 2025! Discover the pulse of urgent global events: massive drone strikes in Kyiv, critical arms negotiations between the US and Ukraine, tense ceasefire discussions in Gaza, and rising pollution concerns in Baghdad. Plus, former President Trump’s surprising role in Ukraine’s security talks introduces bold twists to the diplomatic landscape. Uncover how tightening US immigration policies impact international dynamics. Engage with us—like, comment, and subscribe—to contribute your voice to these pivotal discussions. #UkraineConflict #UNDebate #MiddleEastCeasefire #USVisaPolicy #TrumpUkraineTalks</itunes:summary>
+      <itunes:subtitle>&#x1f30d; Stay ahead with today’s Global Conflict and Di…</itunes:subtitle>
+      <description>&#x1f30d; Stay ahead with today’s Global Conflict and Diplomacy Update – August 20, 2025! Discover the pulse of urgent global events: massive drone strikes in Kyiv, critical arms negotiations between the US and Ukraine, tense ceasefire discussions in Gaza, and rising pollution concerns in Baghdad. Plus, former President Trump’s surprising role in Ukraine’s security talks introduces bold twists to the diplomatic landscape. Uncover how tightening US immigration policies impact international dynamics. Engage with us—like, comment, and subscribe—to contribute your voice to these pivotal discussions. #UkraineConflict #UNDebate #MiddleEastCeasefire #USVisaPolicy #TrumpUkraineTalks</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2156217699-greengroundit-global-conflict-diplomacy.mp3" length="1140454" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2155573377</guid>
       <title>Global Headlines: Ukraine, Middle East Tensions, Climate Crisis Update | 19/8/25 #News #GlobalEvents</title>
