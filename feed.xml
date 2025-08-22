@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Thu, 21 Aug 2025 07:05:12 +0000</pubDate>
-    <lastBuildDate>Thu, 21 Aug 2025 07:05:12 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Aug 2025 07:03:39 +0000</pubDate>
+    <lastBuildDate>Fri, 22 Aug 2025 07:03:39 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2157436263</guid>
+      <title>Imran Khan Bail News &amp; Geopolitics Update August 2025 #Imran #GlobalNews</title>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/imran-khan-bail-news</link>
+      <itunes:duration>00:04:47</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d; Unravel today’s pivotal global happenings with us! &#x1f3a7; From the intense courtroom scene where former PM Imran Khan grabs bail amidst Pakistan’s turmoil, to the fresh US-EU trade vibrations lightening auto tariffs—these stories shape our world. ✈️ Boeing hustles to woo China with jet discussions, as geopolitical waves stir. Meanwhile, watch the Gaza-Ukraine crises escalate, echoing worldwide. Discover the cool science news: 4 unique giraffe species now known, boosting conservation! &#x1f31f; Plus, Colombia’s heart-wrenching security tales highlight global unease. &#x1f310; Tap into these stories for a richer grasp of our tangled web. Dive in now and let’s converse about our planet’s narrative! #ImranKhanBail #GlobalNewsToday #TradeDealUpdate #BoeingChinaDeal #GazaConflict</itunes:summary>
+      <itunes:subtitle>&#x1f30d; Unravel today’s pivotal global happenings with…</itunes:subtitle>
+      <description>&#x1f30d; Unravel today’s pivotal global happenings with us! &#x1f3a7; From the intense courtroom scene where former PM Imran Khan grabs bail amidst Pakistan’s turmoil, to the fresh US-EU trade vibrations lightening auto tariffs—these stories shape our world. ✈️ Boeing hustles to woo China with jet discussions, as geopolitical waves stir. Meanwhile, watch the Gaza-Ukraine crises escalate, echoing worldwide. Discover the cool science news: 4 unique giraffe species now known, boosting conservation! &#x1f31f; Plus, Colombia’s heart-wrenching security tales highlight global unease. &#x1f310; Tap into these stories for a richer grasp of our tangled web. Dive in now and let’s converse about our planet’s narrative! #ImranKhanBail #GlobalNewsToday #TradeDealUpdate #BoeingChinaDeal #GazaConflict</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2157436263-greengroundit-imran-khan-bail-news.mp3" length="1727277" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2156768574</guid>
       <title>Gaza Tensions Surge: TikTok’s Political Impact &amp; More - Aug 21, 2025 #GlobalNews #DiplomacyUpdate</title>
