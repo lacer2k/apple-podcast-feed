@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Fri, 22 Aug 2025 07:03:39 +0000</pubDate>
-    <lastBuildDate>Fri, 22 Aug 2025 07:03:39 +0000</lastBuildDate>
+    <pubDate>Sat, 23 Aug 2025 07:02:41 +0000</pubDate>
+    <lastBuildDate>Sat, 23 Aug 2025 07:02:41 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2157977292</guid>
+      <title>Global Crises &amp; Geopolitical Shifts: Insightful Reflections #Gaza</title>
+      <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-crises-geopolitical</link>
+      <itunes:duration>00:02:36</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Explore the intricate tapestry of global events in our latest episode, "Global Crises and Geopolitical Shifts." From Gaza’s devastating famine to Sri Lanka’s political upheavals, witness the magnitude 7.1 earthquake in the Drake Passage, and immerse in India’s diplomatic efforts in Russia. Plus, a deep dive into Iran’s nuclear talks and Southeast Asia’s unfolding dramas. Engage with us as we unravel the stories shaping our world. #GazaFamine #SriLankaPolitics #DrakePassageEarthquake #IndiaRussiaRelations #IranNuclearDiplomacy &#x1f30d;&#x1f399;️ Like, comment, and subscribe. Your insight matters!</itunes:summary>
+      <itunes:subtitle>Explore the intricate tapestry of global events i…</itunes:subtitle>
+      <description>Explore the intricate tapestry of global events in our latest episode, "Global Crises and Geopolitical Shifts." From Gaza’s devastating famine to Sri Lanka’s political upheavals, witness the magnitude 7.1 earthquake in the Drake Passage, and immerse in India’s diplomatic efforts in Russia. Plus, a deep dive into Iran’s nuclear talks and Southeast Asia’s unfolding dramas. Engage with us as we unravel the stories shaping our world. #GazaFamine #SriLankaPolitics #DrakePassageEarthquake #IndiaRussiaRelations #IranNuclearDiplomacy &#x1f30d;&#x1f399;️ Like, comment, and subscribe. Your insight matters!</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2157977292-greengroundit-global-crises-geopolitical.mp3" length="941757" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2157436263</guid>
       <title>Imran Khan Bail News &amp; Geopolitics Update August 2025 #Imran #GlobalNews</title>
