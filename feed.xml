@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Sat, 23 Aug 2025 07:02:41 +0000</pubDate>
-    <lastBuildDate>Sat, 23 Aug 2025 07:02:41 +0000</lastBuildDate>
+    <pubDate>Sun, 24 Aug 2025 07:03:49 +0000</pubDate>
+    <lastBuildDate>Sun, 24 Aug 2025 07:03:49 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2158389345</guid>
+      <title>Global Crisis &amp; Hope: Updates on Gaza, Ukraine &amp; Korea Aug 24 2025 #GlobalNews #Gaza</title>
+      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-crisis-hope-updates-on</link>
+      <itunes:duration>00:04:36</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Discover the intricate tapestry of today’s global headlines! Dive into the pressing humanitarian crisis in Gaza, the ongoing Ukraine-Russia tension, and the boiling border issues on the Korean Peninsula. Experience the heart-wrenching story of a bridge collapse, triumphs in wildlife conservation with giraffes, and the stark challenges faced by global health aid. Uncover unexpected stories like Denmark’s zoo plea for pet donations and rising drone incidents over Lithuania, illustrating the delicate interplay of peace, nature, and resilience in our world. Engage, reflect, and stay informed with these captivating stories that demand our attention! Please like, share your insights, and subscribe for continuous updates! #GlobalNews #GazaConflict #UkraineRussiaWar #KoreanPeninsula #BridgeCollapse</itunes:summary>
+      <itunes:subtitle>Discover the intricate tapestry of today’s global…</itunes:subtitle>
+      <description>Discover the intricate tapestry of today’s global headlines! Dive into the pressing humanitarian crisis in Gaza, the ongoing Ukraine-Russia tension, and the boiling border issues on the Korean Peninsula. Experience the heart-wrenching story of a bridge collapse, triumphs in wildlife conservation with giraffes, and the stark challenges faced by global health aid. Uncover unexpected stories like Denmark’s zoo plea for pet donations and rising drone incidents over Lithuania, illustrating the delicate interplay of peace, nature, and resilience in our world. Engage, reflect, and stay informed with these captivating stories that demand our attention! Please like, share your insights, and subscribe for continuous updates! #GlobalNews #GazaConflict #UkraineRussiaWar #KoreanPeninsula #BridgeCollapse</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2158389345-greengroundit-global-crisis-hope-updates-on.mp3" length="1660461" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2157977292</guid>
       <title>Global Crises &amp; Geopolitical Shifts: Insightful Reflections #Gaza</title>
