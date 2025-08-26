@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Mon, 25 Aug 2025 07:04:33 +0000</pubDate>
-    <lastBuildDate>Mon, 25 Aug 2025 07:04:33 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Aug 2025 07:05:26 +0000</pubDate>
+    <lastBuildDate>Tue, 26 Aug 2025 07:05:26 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2159468628</guid>
+      <title>Global Crisis Update: Gaza Struggles, Trump-Kim Talks, Aus-Iran Tensions #Diplomacy #Gaza #SoundClou</title>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-crisis-update-gaza</link>
+      <itunes:duration>00:05:40</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>**Global Crisis &amp; Diplomacy: Unpacking Tragedies &amp; Talks | Aug 26, 2025** &#x1f30d;&#x1f494; Tune into the latest global events shaping our future. We delve into the Gaza hospital tragedy, brave journalists lost, and a hopeful Trump-Kim summit for peace. Uncover Australia’s bold expulsion of Iran’s ambassador, the U.S.-India trade tensions, and Russia’s embrace of Indian workers amidst shifting migration policies. Plus, insights into Southeast Asia’s typhoon response, the UK’s helicopter crash tragedy, and London’s green battle for the Thames. Join us for in-depth analysis and urgent calls for action. Don’t miss out! #GazaCrisis #DiplomacyUpdate #TrumpKimMeeting #AustraliaIranTensions #TradeWars</itunes:summary>
+      <itunes:subtitle>**Global Crisis &amp; Diplomacy: Unpacking Tragedies …</itunes:subtitle>
+      <description>**Global Crisis &amp; Diplomacy: Unpacking Tragedies &amp; Talks | Aug 26, 2025** &#x1f30d;&#x1f494; Tune into the latest global events shaping our future. We delve into the Gaza hospital tragedy, brave journalists lost, and a hopeful Trump-Kim summit for peace. Uncover Australia’s bold expulsion of Iran’s ambassador, the U.S.-India trade tensions, and Russia’s embrace of Indian workers amidst shifting migration policies. Plus, insights into Southeast Asia’s typhoon response, the UK’s helicopter crash tragedy, and London’s green battle for the Thames. Join us for in-depth analysis and urgent calls for action. Don’t miss out! #GazaCrisis #DiplomacyUpdate #TrumpKimMeeting #AustraliaIranTensions #TradeWars</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2159468628-greengroundit-global-crisis-update-gaza.mp3" length="2041053" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2158828524</guid>
       <title>August 2025: Global Tensions &amp; Triumphs in Ukraine #UkraineConflict</title>
