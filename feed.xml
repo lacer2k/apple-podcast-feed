@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Tue, 26 Aug 2025 07:05:26 +0000</pubDate>
-    <lastBuildDate>Tue, 26 Aug 2025 07:05:26 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Aug 2025 07:04:57 +0000</pubDate>
+    <lastBuildDate>Wed, 27 Aug 2025 07:04:57 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2160039045</guid>
+      <title>Global Reflections: Aug 27 Events &#x1f30d; #WorldNews #MiddleEastCrisis</title>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-reflections-aug-27</link>
+      <itunes:duration>00:04:45</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d; Global Reflections: Key World Events - August 27, 2025 &#x1f30d; Dive into this week’s top global stories and uncover the critical events shaping our world today. From Israel’s airstrikes in Gaza to delicate ceasefire negotiations, key talks on Ukraine-Russia energy peace, and Australia reeling from antisemitic attacks, we’ve got the pulse on it all. Tune into Sri Lanka’s protests, leadership shifts in Lithuania, and cautious US-North Korea dynamics. Don’t miss our spotlight on human rights in Indonesia and international educational expansions. Plus, the latest on Phoenix’s weather woes and their ripple effects. Stay informed, stay engaged! &#x1f3a7; #WorldNews #MiddleEastCrisis #UkraineConflict #AustraliaNews #SriLankaProtests</itunes:summary>
+      <itunes:subtitle>&#x1f30d; Global Reflections: Key World Events - August …</itunes:subtitle>
+      <description>&#x1f30d; Global Reflections: Key World Events - August 27, 2025 &#x1f30d; Dive into this week’s top global stories and uncover the critical events shaping our world today. From Israel’s airstrikes in Gaza to delicate ceasefire negotiations, key talks on Ukraine-Russia energy peace, and Australia reeling from antisemitic attacks, we’ve got the pulse on it all. Tune into Sri Lanka’s protests, leadership shifts in Lithuania, and cautious US-North Korea dynamics. Don’t miss our spotlight on human rights in Indonesia and international educational expansions. Plus, the latest on Phoenix’s weather woes and their ripple effects. Stay informed, stay engaged! &#x1f3a7; #WorldNews #MiddleEastCrisis #UkraineConflict #AustraliaNews #SriLankaProtests</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2160039045-greengroundit-global-reflections-aug-27.mp3" length="1715469" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2159468628</guid>
       <title>Global Crisis Update: Gaza Struggles, Trump-Kim Talks, Aus-Iran Tensions #Diplomacy #Gaza #SoundClou</title>
