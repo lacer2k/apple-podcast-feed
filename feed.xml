@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Sat, 30 Aug 2025 10:03:17 +0000</pubDate>
-    <lastBuildDate>Sat, 30 Aug 2025 10:03:17 +0000</lastBuildDate>
+    <pubDate>Sun, 31 Aug 2025 07:05:56 +0000</pubDate>
+    <lastBuildDate>Sun, 31 Aug 2025 07:05:56 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,28 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2162282817</guid>
+      <title>Unmissable Global Unrest &amp; Economic Shifts Update August 2025 #GlobalN #CurrentEvents</title>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/unmissable-global-unrest</link>
+      <itunes:duration>00:06:25</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>**Global Unrest &amp; Economic Shifts: Must-Know Stories - Aug 31, 2025**
+
+Engage with today’s headlines shaping our world! From U.S. trade tariff rulings impacting India, Sri Lanka’s rising inflation, to Mediterranean tensions, dive deep into global shifts. Plus, don’t miss updates on Russia’s drone attacks in Ukraine, Indonesian unrest, U.S. aid cuts in Nigeria, and France-U.S. diplomatic sparks. Understand the human stories behind these global events. Listen, learn, and stay enlightened! &#x1f30d;&#x1f4f0;
+
+#GlobalNews #UkraineWar #USPolitics #SriLankaEconomy #TurkeyIsraelTensions #SoundCloudNews #WorldEvents</itunes:summary>
+      <itunes:subtitle>**Global Unrest &amp; Economic Shifts: Must-Know Stor…</itunes:subtitle>
+      <description>**Global Unrest &amp; Economic Shifts: Must-Know Stories - Aug 31, 2025**
+
+Engage with today’s headlines shaping our world! From U.S. trade tariff rulings impacting India, Sri Lanka’s rising inflation, to Mediterranean tensions, dive deep into global shifts. Plus, don’t miss updates on Russia’s drone attacks in Ukraine, Indonesian unrest, U.S. aid cuts in Nigeria, and France-U.S. diplomatic sparks. Understand the human stories behind these global events. Listen, learn, and stay enlightened! &#x1f30d;&#x1f4f0;
+
+#GlobalNews #UkraineWar #USPolitics #SriLankaEconomy #TurkeyIsraelTensions #SoundCloudNews #WorldEvents</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2162282817-greengroundit-unmissable-global-unrest.mp3" length="2313707" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2161901373</guid>
       <title>Global Turmoil: Thailand Crisis &amp; Nepal Cholera Update #SamoaVote #August2025 #WorldNews</title>
