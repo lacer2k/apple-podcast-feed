@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Sun, 31 Aug 2025 07:05:56 +0000</pubDate>
-    <lastBuildDate>Sun, 31 Aug 2025 07:05:56 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Sep 2025 07:06:24 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2025 07:06:24 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,28 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2162722830</guid>
+      <title>World Events Unveiled: Global Turmoil &amp; Diplomacy Today #GlobalNews #Indone</title>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/world-events-unveiled-global</link>
+      <itunes:duration>00:05:18</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d;&#x1f399;️ GLOBAL TURMOIL &amp; DIPLOMACY: September 1, 2025 &#x1f30f;
+
+Experience the pulse of our ever-evolving world! From the fiery protests in Indonesia &#x1f1ee;&#x1f1e9; to political whirlwinds in Thailand &#x1f1f9;&#x1f1ed;, and the ongoing battle for peace in Ukraine &#x1f1fa;&#x1f1e6;. Navigate diplomatic tensions in Taiwan, delve into Europe’s military mishaps, and health crises in Nigeria. Discover espionage intrigue in Brazil and Croatia, plus India and Myanmar’s pivotal talks for Asia’s future. Insightful, gripping, essential. Tune in, discuss, and stay ahead! &#x1f3a7;
+
+#GlobalNews #IndonesiaProtests #ThailandPolitics #UkraineConflict #TaiwanDiplomacy</itunes:summary>
+      <itunes:subtitle>&#x1f30d;&#x1f399;️ GLOBAL TURMOIL &amp; DIPLOMACY: September 1, 20…</itunes:subtitle>
+      <description>&#x1f30d;&#x1f399;️ GLOBAL TURMOIL &amp; DIPLOMACY: September 1, 2025 &#x1f30f;
+
+Experience the pulse of our ever-evolving world! From the fiery protests in Indonesia &#x1f1ee;&#x1f1e9; to political whirlwinds in Thailand &#x1f1f9;&#x1f1ed;, and the ongoing battle for peace in Ukraine &#x1f1fa;&#x1f1e6;. Navigate diplomatic tensions in Taiwan, delve into Europe’s military mishaps, and health crises in Nigeria. Discover espionage intrigue in Brazil and Croatia, plus India and Myanmar’s pivotal talks for Asia’s future. Insightful, gripping, essential. Tune in, discuss, and stay ahead! &#x1f3a7;
+
+#GlobalNews #IndonesiaProtests #ThailandPolitics #UkraineConflict #TaiwanDiplomacy</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2162722830-greengroundit-world-events-unveiled-global.mp3" length="1912461" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2162282817</guid>
       <title>Unmissable Global Unrest &amp; Economic Shifts Update August 2025 #GlobalN #CurrentEvents</title>
