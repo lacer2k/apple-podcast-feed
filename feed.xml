@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Mon, 01 Sep 2025 07:06:24 +0000</pubDate>
-    <lastBuildDate>Mon, 01 Sep 2025 07:06:24 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Sep 2025 07:04:07 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2025 07:04:07 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,44 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2163347421</guid>
+      <title>Navigating Global Crises &amp; Diplomacy: Insights from Sept 2, 2025 #GlobalCrisis #Diplomacy</title>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/navigating-global-crises</link>
+      <itunes:duration>00:02:15</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30e; Unite in Global Diplomacy &#x1f310;: Sept 2, 2025, News Overview ✨
+
+&#x1f5de;️ Delve into today’s pivotal global updates! A powerful 6.3 earthquake shakes Afghanistan, claiming over 800 lives. Join the urgent rescue efforts amid perilous conditions. 
+
+&#x1f4ca; Dive into the Shanghai Cooperation Organisation Summit insights: India’s bold foreign policy, increasing Russia-Ukraine tensions, and U.S. trade policy shifts altering the pharmaceutical landscape.
+
+&#x1f30d; Discover the pressing calls for climate action at COP30 and celebrate deepening India-Uzbekistan relations on Uzbekistan’s Independence Day. 
+
+&#x1f6a8; Grasp North Korea’s key moves in Beijing and the worsening humanitarian crisis in Northern Gaza. 
+
+Stay informed with Alvin’s engaging insights on the world’s urgent challenges and diplomatic maneuvering. Tune in, engage, and join the conversation! &#x1f3a7;
+
+#GlobalCrisis #AfghanistanEarthquake #SCO2025 #RussiaUkraineConflict #USTradePolicy</itunes:summary>
+      <itunes:subtitle>&#x1f30e; Unite in Global Diplomacy &#x1f310;: Sept 2, 2025, Ne…</itunes:subtitle>
+      <description>&#x1f30e; Unite in Global Diplomacy &#x1f310;: Sept 2, 2025, News Overview ✨
+
+&#x1f5de;️ Delve into today’s pivotal global updates! A powerful 6.3 earthquake shakes Afghanistan, claiming over 800 lives. Join the urgent rescue efforts amid perilous conditions. 
+
+&#x1f4ca; Dive into the Shanghai Cooperation Organisation Summit insights: India’s bold foreign policy, increasing Russia-Ukraine tensions, and U.S. trade policy shifts altering the pharmaceutical landscape.
+
+&#x1f30d; Discover the pressing calls for climate action at COP30 and celebrate deepening India-Uzbekistan relations on Uzbekistan’s Independence Day. 
+
+&#x1f6a8; Grasp North Korea’s key moves in Beijing and the worsening humanitarian crisis in Northern Gaza. 
+
+Stay informed with Alvin’s engaging insights on the world’s urgent challenges and diplomatic maneuvering. Tune in, engage, and join the conversation! &#x1f3a7;
+
+#GlobalCrisis #AfghanistanEarthquake #SCO2025 #RussiaUkraineConflict #USTradePolicy</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2163347421-greengroundit-navigating-global-crises.mp3" length="813885" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2162722830</guid>
       <title>World Events Unveiled: Global Turmoil &amp; Diplomacy Today #GlobalNews #Indone</title>
