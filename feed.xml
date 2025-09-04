@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Wed, 03 Sep 2025 10:02:33 +0000</pubDate>
-    <lastBuildDate>Wed, 03 Sep 2025 10:02:33 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Sep 2025 07:03:10 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Sep 2025 07:03:10 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2164481574</guid>
+      <title>Global Power Shifts &amp; Disasters: Geopolitics Unfolded #Crisis2025 #Geopolitics #Disasters</title>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-power-shifts-disasters</link>
+      <itunes:duration>00:05:18</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>"Global Power Shifts &amp; Crises: Unfolding Geopolitics &amp; Disasters | September 4, 2025" offers a deep dive into today’s pivotal international narratives. From China’s grand military showcase, strategic Putin-Kim ties, the intensifying Ukraine conflict, and the Lisbon streetcar tragedy to Pakistan’s unsettling attacks. Analyze with us as Moody’s cautions on a looming US recession amidst a major ChatGPT outage and Hurricane Kiko’s looming Pacific threat. Amid chaos, marvel at Bhutan-India diplomacy and Singapore honoring Gandhi’s legacy. Engage and stay at the forefront of global developments—watch, discuss, and subscribe now! #ChinaMilitaryParade #PutinKimAlliance #UkraineConflict #PakistanAttack #LisobonTragedy</itunes:summary>
+      <itunes:subtitle>"Global Power Shifts &amp; Crises: Unfolding Geopolit…</itunes:subtitle>
+      <description>"Global Power Shifts &amp; Crises: Unfolding Geopolitics &amp; Disasters | September 4, 2025" offers a deep dive into today’s pivotal international narratives. From China’s grand military showcase, strategic Putin-Kim ties, the intensifying Ukraine conflict, and the Lisbon streetcar tragedy to Pakistan’s unsettling attacks. Analyze with us as Moody’s cautions on a looming US recession amidst a major ChatGPT outage and Hurricane Kiko’s looming Pacific threat. Amid chaos, marvel at Bhutan-India diplomacy and Singapore honoring Gandhi’s legacy. Engage and stay at the forefront of global developments—watch, discuss, and subscribe now! #ChinaMilitaryParade #PutinKimAlliance #UkraineConflict #PakistanAttack #LisobonTragedy</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2164481574-greengroundit-global-power-shifts-disasters.mp3" length="1913181" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2163980910</guid>
       <title>Geopolitical Shifts &amp; Crises Report Sep 2025 #GlobalPower #Geopolitics2025 #UrgentAnalysis</title>
