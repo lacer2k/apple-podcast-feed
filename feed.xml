@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Sat, 06 Sep 2025 07:04:18 +0000</pubDate>
-    <lastBuildDate>Sat, 06 Sep 2025 07:04:18 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Sep 2025 07:04:33 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Sep 2025 07:04:33 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,22 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2166286398</guid>
+      <title>Global News Highlights: Pakistan Blast, Russia’s Language Shift &amp; Mail Disruptions #WorldUpdate #New</title>
+      <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-news-highlights</link>
+      <itunes:duration>00:03:49</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>**World Stories Unfolding**: &#x1f1f5;&#x1f1f0; Pakistan Blast, &#x1f1f7;&#x1f1fa; Russia’s Hindi Push, &#x1f4ec; Global Mail Halt &amp; More | 09-07-25   
+&#x1f6a8; Uncover today’s crucial global narratives shaping our world! From a tragic stadium explosion in northern Pakistan to Russia’s move to bolster Hindi in education, dive deep into these impactful stories. Delve into the ripple effects as 88 postal operators halt mail to the U.S. and the symbolic Gaza tower demolition amid conflict. Witness human resilience post-Afghanistan’s quake and South Sudan’s unrest. This powerful narrative highlights fragility and hope across continents. Stay informed and engage with stories that matter—join the discourse by liking, commenting &amp; subscribing! &#x1f30f;✨ #GlobalNews #PakistanBlast #RussiaHindi #PostalDisruption #GazaConflict</itunes:summary>
+      <itunes:subtitle>**World Stories Unfolding**: &#x1f1f5;&#x1f1f0; Pakistan Blast,…</itunes:subtitle>
+      <description>**World Stories Unfolding**: &#x1f1f5;&#x1f1f0; Pakistan Blast, &#x1f1f7;&#x1f1fa; Russia’s Hindi Push, &#x1f4ec; Global Mail Halt &amp; More | 09-07-25   
+&#x1f6a8; Uncover today’s crucial global narratives shaping our world! From a tragic stadium explosion in northern Pakistan to Russia’s move to bolster Hindi in education, dive deep into these impactful stories. Delve into the ripple effects as 88 postal operators halt mail to the U.S. and the symbolic Gaza tower demolition amid conflict. Witness human resilience post-Afghanistan’s quake and South Sudan’s unrest. This powerful narrative highlights fragility and hope across continents. Stay informed and engage with stories that matter—join the discourse by liking, commenting &amp; subscribing! &#x1f30f;✨ #GlobalNews #PakistanBlast #RussiaHindi #PostalDisruption #GazaConflict</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2166286398-greengroundit-global-news-highlights.mp3" length="1377213" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2165847609</guid>
       <title>Global Reflections: Security, Diplomacy &amp; Tech Insights 2025 #GlobalS</title>
