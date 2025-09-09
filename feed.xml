@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Mon, 08 Sep 2025 07:05:22 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Sep 2025 07:05:22 +0000</lastBuildDate>
+    <pubDate>Tue, 09 Sep 2025 07:03:33 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Sep 2025 07:03:33 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2167402266</guid>
+      <title>Nepal Protests &amp; PNG Freedom: Global Highlights 9/9/2025 #WorldEvents #GlobalNews</title>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/nepal-protests-png-freedom</link>
+      <itunes:duration>00:05:55</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f3a7; Dive into the pulse of global events with "Global Turmoil and Triumph" on September 9, 2025! Discover Nepal’s intense youth protests against social media bans and corruption, experience the vibrant 50th Independence Day of Papua New Guinea with grand military bands, and grasp Russia’s bold defiance amid sanctions. We’ll take you through Spain’s humanitarian efforts in the Middle East, the warming relations between Japan and South Korea, Pakistan’s catastrophic floods, Ethiopia’s monumental dam inauguration, and France’s political scene. Stay informed with our expansive news coverage on the crises and triumphs shaping millions of lives. Listen, share, and be part of the change! &#x1f30d;&#x1f4a5; #NepalProtests #SocialMediaBan #GlobalNews2025 #PapuaNewGuinea50th #RussiaSanctions</itunes:summary>
+      <itunes:subtitle>&#x1f3a7; Dive into the pulse of global events with "Glo…</itunes:subtitle>
+      <description>&#x1f3a7; Dive into the pulse of global events with "Global Turmoil and Triumph" on September 9, 2025! Discover Nepal’s intense youth protests against social media bans and corruption, experience the vibrant 50th Independence Day of Papua New Guinea with grand military bands, and grasp Russia’s bold defiance amid sanctions. We’ll take you through Spain’s humanitarian efforts in the Middle East, the warming relations between Japan and South Korea, Pakistan’s catastrophic floods, Ethiopia’s monumental dam inauguration, and France’s political scene. Stay informed with our expansive news coverage on the crises and triumphs shaping millions of lives. Listen, share, and be part of the change! &#x1f30d;&#x1f4a5; #NepalProtests #SocialMediaBan #GlobalNews2025 #PapuaNewGuinea50th #RussiaSanctions</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2167402266-greengroundit-nepal-protests-png-freedom.mp3" length="2132925" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2166747654</guid>
       <title>Global Security Brief: Iran, Thailand, Japan &amp; More - Sep 8, 2025 #GlobalUpdates #SecurityNews</title>
