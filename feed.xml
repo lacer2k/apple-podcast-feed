@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Wed, 10 Sep 2025 07:04:48 +0000</pubDate>
-    <lastBuildDate>Wed, 10 Sep 2025 07:04:48 +0000</lastBuildDate>
+    <pubDate>Thu, 11 Sep 2025 07:03:41 +0000</pubDate>
+    <lastBuildDate>Thu, 11 Sep 2025 07:03:41 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2168583528</guid>
+      <title>Nepal’s Social Media Turmoil: Sept 11 Update #NepalProtest</title>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/nepals-social-media-turmoil</link>
+      <itunes:duration>00:05:22</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f3a7; Immerse yourself in the heartbeat of today’s global dynamics! Unpack Nepal’s explosive youth protests against a stringent social media ban on 26 platforms, igniting clashes and political fervor. Beyond borders, dive into India-Canada mending ties, FBI’s growing actions, and the electrifying moments from Asia Cup 2025. Journey through shifting geopolitics from the Middle East to China and Eastern Europe. Commemorate the resilience of 9/11 as we strive for peace. Stay tuned, engaged, and be part of the global dialogue. Hit like, comment, and subscribe for a world of insights! &#x1f30d;✨ #NepalProtests #SocialMediaBan #GenZNepal #GlobalNews #AsiaCup2025</itunes:summary>
+      <itunes:subtitle>&#x1f3a7; Immerse yourself in the heartbeat of today’s g…</itunes:subtitle>
+      <description>&#x1f3a7; Immerse yourself in the heartbeat of today’s global dynamics! Unpack Nepal’s explosive youth protests against a stringent social media ban on 26 platforms, igniting clashes and political fervor. Beyond borders, dive into India-Canada mending ties, FBI’s growing actions, and the electrifying moments from Asia Cup 2025. Journey through shifting geopolitics from the Middle East to China and Eastern Europe. Commemorate the resilience of 9/11 as we strive for peace. Stay tuned, engaged, and be part of the global dialogue. Hit like, comment, and subscribe for a world of insights! &#x1f30d;✨ #NepalProtests #SocialMediaBan #GenZNepal #GlobalNews #AsiaCup2025</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2168583528-greengroundit-nepals-social-media-turmoil.mp3" length="1936653" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2168025543</guid>
       <title>Global Chaos &amp; Victory: Nepal Protests, Mideast Strife, Landmark Rulings #GlobalNews #Podcast</title>
