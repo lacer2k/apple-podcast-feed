@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Thu, 11 Sep 2025 07:03:41 +0000</pubDate>
-    <lastBuildDate>Thu, 11 Sep 2025 07:03:41 +0000</lastBuildDate>
+    <pubDate>Fri, 12 Sep 2025 07:04:54 +0000</pubDate>
+    <lastBuildDate>Fri, 12 Sep 2025 07:04:54 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2169290100</guid>
+      <title>Global Crossroads: Sounds of Kathmandu’s Fiery Streets #WorldMusic #TravelBeats</title>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-crossroads-sounds-of</link>
+      <itunes:duration>00:05:26</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d; Dive into the pulse of September 12, 2025! From Kathmandu’s vibrant streets to Middle Eastern diplomacy’s shifting sands and Brazil’s green triumphs to Pakistan’s floods. Alvin navigates headlines of youth empowerment, peace efforts, and climate milestones—capturing the world’s resilience and hope. Engage, comment, and subscribe for insightful stories shaping our lives. Check below for more! &#x1f31f; #GlobalNews #WorldEvents #NepalProtests #MiddleEastConflict #BrazilRenewables</itunes:summary>
+      <itunes:subtitle>&#x1f30d; Dive into the pulse of September 12, 2025! Fro…</itunes:subtitle>
+      <description>&#x1f30d; Dive into the pulse of September 12, 2025! From Kathmandu’s vibrant streets to Middle Eastern diplomacy’s shifting sands and Brazil’s green triumphs to Pakistan’s floods. Alvin navigates headlines of youth empowerment, peace efforts, and climate milestones—capturing the world’s resilience and hope. Engage, comment, and subscribe for insightful stories shaping our lives. Check below for more! &#x1f31f; #GlobalNews #WorldEvents #NepalProtests #MiddleEastConflict #BrazilRenewables</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2169290100-greengroundit-global-crossroads-sounds-of.mp3" length="1959837" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2168583528</guid>
       <title>Nepal’s Social Media Turmoil: Sept 11 Update #NepalProtest</title>
