@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Mon, 15 Sep 2025 07:03:36 +0000</pubDate>
-    <lastBuildDate>Mon, 15 Sep 2025 07:03:36 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Sep 2025 07:05:32 +0000</pubDate>
+    <lastBuildDate>Tue, 16 Sep 2025 07:05:32 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2171334399</guid>
+      <title>Global Stories Impacting Today - September 16, 2025 #International</title>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-stories-impacting-today</link>
+      <itunes:duration>00:05:49</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f50a; Global Stories Shaping Our World &#x1f30d; – Sept 16, 2025 &#x1f680; Insightful Update: Explore the crucial global headlines impacting governance, innovation, and our environment. &#x1f4e1; From Malawi’s pivotal elections &#x1f1f2;&#x1f1fc; and military maneuvers in Eastern Europe &#x1f1e7;&#x1f1fe; to China’s crackdown on Nvidia &#x1f4c9;, we’ve got the insights. Discover critical threats from toxic pollution in Mexico &#x1f33f; and WWII remnants in the Baltic &#x1f30a;, North Korea’s nuclear developments &#x1f525;, and the Gaza crisis &#x1f54c;. Plus, Australia’s bold social media age restrictions proposal &#x1f1e6;&#x1f1fa;. Stay ahead with our expert breakdown—shape the future with informed insights! &#x1f4a1; &#x1f310; #InternationalNews #MalawiElections #EasternEuropeTensions #ChinaTechInvestigation #EnvironmentalCrisis #GlobalUpdate #SoundCloudInsights</itunes:summary>
+      <itunes:subtitle>&#x1f50a; Global Stories Shaping Our World &#x1f30d; – Sept 16,…</itunes:subtitle>
+      <description>&#x1f50a; Global Stories Shaping Our World &#x1f30d; – Sept 16, 2025 &#x1f680; Insightful Update: Explore the crucial global headlines impacting governance, innovation, and our environment. &#x1f4e1; From Malawi’s pivotal elections &#x1f1f2;&#x1f1fc; and military maneuvers in Eastern Europe &#x1f1e7;&#x1f1fe; to China’s crackdown on Nvidia &#x1f4c9;, we’ve got the insights. Discover critical threats from toxic pollution in Mexico &#x1f33f; and WWII remnants in the Baltic &#x1f30a;, North Korea’s nuclear developments &#x1f525;, and the Gaza crisis &#x1f54c;. Plus, Australia’s bold social media age restrictions proposal &#x1f1e6;&#x1f1fa;. Stay ahead with our expert breakdown—shape the future with informed insights! &#x1f4a1; &#x1f310; #InternationalNews #MalawiElections #EasternEuropeTensions #ChinaTechInvestigation #EnvironmentalCrisis #GlobalUpdate #SoundCloudInsights</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2171334399-greengroundit-global-stories-impacting-today.mp3" length="2099498" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2170681701</guid>
       <title>Nepal Unrest &amp; Eastern Europe Tensions: Global Power Shifts Explored #WorldNews #GlobalTrends</title>
