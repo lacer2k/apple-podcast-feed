@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Thu, 18 Sep 2025 07:41:18 +0000</pubDate>
-    <lastBuildDate>Thu, 18 Sep 2025 07:41:18 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Sep 2025 07:04:05 +0000</pubDate>
+    <lastBuildDate>Fri, 19 Sep 2025 07:04:05 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2173100985</guid>
+      <title>Global Conflicts &amp; Innovations Update | World News 9/19/2025 #GlobalNews</title>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-conflicts-innovations</link>
+      <itunes:duration>00:05:07</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d; Dive into our **Global Conflicts and Innovations Unfold** update from September 19, 2025! Discover key events shaping our world: the Southwest Pakistan insurgency, Gaza’s massive displacements, and the U.S. crackdown on the Sinaloa cartel. Understand the extradition moves against ISIS associates, Indonesia’s drug crime battle, Albania’s leap with AI in government, China-Taiwan tensions, NATO vigilance, and more. Nepal faces unrest, while Russia preps for natural challenges. This analysis unravels how conflict, progress, tech, and resilience define today! Engage, stay informed, and share your thoughts. &#x1f310; #GlobalNews #BalochistanConflict #GazaCrisis #SinaloaCartel #InternationalJustice</itunes:summary>
+      <itunes:subtitle>&#x1f30d; Dive into our **Global Conflicts and Innovatio…</itunes:subtitle>
+      <description>&#x1f30d; Dive into our **Global Conflicts and Innovations Unfold** update from September 19, 2025! Discover key events shaping our world: the Southwest Pakistan insurgency, Gaza’s massive displacements, and the U.S. crackdown on the Sinaloa cartel. Understand the extradition moves against ISIS associates, Indonesia’s drug crime battle, Albania’s leap with AI in government, China-Taiwan tensions, NATO vigilance, and more. Nepal faces unrest, while Russia preps for natural challenges. This analysis unravels how conflict, progress, tech, and resilience define today! Engage, stay informed, and share your thoughts. &#x1f310; #GlobalNews #BalochistanConflict #GazaCrisis #SinaloaCartel #InternationalJustice</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2173100985-greengroundit-global-conflicts-innovations.mp3" length="1845213" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2172450024</guid>
       <title>Global Turmoil &amp; Resilience: Top Stories Sep 18, 2025 #GlobalNews #Resilience</title>
