@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Fri, 19 Sep 2025 07:04:05 +0000</pubDate>
-    <lastBuildDate>Fri, 19 Sep 2025 07:04:05 +0000</lastBuildDate>
+    <pubDate>Sun, 21 Sep 2025 07:01:14 +0000</pubDate>
+    <lastBuildDate>Sun, 21 Sep 2025 07:01:14 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2174089116</guid>
+      <title>Trump’s Nobel Twist: Geopolitics &amp; Global News | Sept 21 #GlobalNews #WorldInFocus</title>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/trumps-nobel-twist-geopolitics</link>
+      <itunes:duration>00:04:57</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Engage with today’s global pulse and uncover the stories shaping our world. From Trump’s daring Nobel Peace Prize pursuit and rising East European tensions to Iraq’s renewable energy strides and Pakistan’s climate challenges, we’re diving deep into September 21, 2025’s headlines. Delve into technology’s human impact, cybersecurity threats at European airports, and groundbreaking law enforcement wins in the US. Stay curious, stay informed! Like, comment, and follow us for your daily global insights! #GlobalNews #TrumpNobel #Geopolitics2025 #RenewableEnergy #Cybersecurity</itunes:summary>
+      <itunes:subtitle>Engage with today’s global pulse and uncover the …</itunes:subtitle>
+      <description>Engage with today’s global pulse and uncover the stories shaping our world. From Trump’s daring Nobel Peace Prize pursuit and rising East European tensions to Iraq’s renewable energy strides and Pakistan’s climate challenges, we’re diving deep into September 21, 2025’s headlines. Delve into technology’s human impact, cybersecurity threats at European airports, and groundbreaking law enforcement wins in the US. Stay curious, stay informed! Like, comment, and follow us for your daily global insights! #GlobalNews #TrumpNobel #Geopolitics2025 #RenewableEnergy #Cybersecurity</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2174089116-greengroundit-trumps-nobel-twist-geopolitics.mp3" length="1786461" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2173100985</guid>
       <title>Global Conflicts &amp; Innovations Update | World News 9/19/2025 #GlobalNews</title>
