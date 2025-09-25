@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Wed, 24 Sep 2025 07:00:51 +0000</pubDate>
-    <lastBuildDate>Wed, 24 Sep 2025 07:00:51 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Sep 2025 07:04:10 +0000</pubDate>
+    <lastBuildDate>Thu, 25 Sep 2025 07:04:10 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2176252320</guid>
+      <title>Global Resilience &amp; Conflict: Storms &amp; Diplomacy Unleashed #Storms #Diplomacy #Resilience</title>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-resilience-conflict</link>
+      <itunes:duration>00:05:35</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Global Resilience &amp; Conflict Update – Sep 25, 2025: Nature’s wrath, political upheaval, and diplomacy in action! &#x1f329;️&#x1f1ef;&#x1f1f5;&#x1f1fa;&#x1f1e6; Discover Japan’s intense floods, Tunisia’s fiery protests, and Ukraine’s frontline impact. Unpack how resilience, leadership, and tech redefine our global narrative amid climate crises and diplomatic bridges.&#x1f517;&#x1f30d; Hit like, comment your thoughts, and subscribe for deep dives into today’s pressing stories. Stay informed, stay engaged! #GlobalNews #JapanFloods #TunisiaProtests #UkraineConflict #ClimateChange</itunes:summary>
+      <itunes:subtitle>Global Resilience &amp; Conflict Update – Sep 25, 202…</itunes:subtitle>
+      <description>Global Resilience &amp; Conflict Update – Sep 25, 2025: Nature’s wrath, political upheaval, and diplomacy in action! &#x1f329;️&#x1f1ef;&#x1f1f5;&#x1f1fa;&#x1f1e6; Discover Japan’s intense floods, Tunisia’s fiery protests, and Ukraine’s frontline impact. Unpack how resilience, leadership, and tech redefine our global narrative amid climate crises and diplomatic bridges.&#x1f517;&#x1f30d; Hit like, comment your thoughts, and subscribe for deep dives into today’s pressing stories. Stay informed, stay engaged! #GlobalNews #JapanFloods #TunisiaProtests #UkraineConflict #ClimateChange</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2176252320-greengroundit-global-resilience-conflict.mp3" length="2011101" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2175710187</guid>
       <title>Global Storms &amp; Innovation Unleashed: September 2025 World Update #SuperTyphoonRag</title>
