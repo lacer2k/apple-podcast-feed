@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Tue, 30 Sep 2025 07:04:19 +0000</pubDate>
-    <lastBuildDate>Tue, 30 Sep 2025 07:04:19 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Oct 2025 07:19:41 +0000</pubDate>
+    <lastBuildDate>Wed, 01 Oct 2025 07:19:41 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2179824879</guid>
+      <title>Global Stories: Resilience &amp; Conflict 10/1/2025 #GlobalNews #UkraineDefense</title>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-stories-resilience</link>
+      <itunes:duration>00:05:35</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Explore today’s most compelling global tales of resilience and conflict. On October 1, 2025, witness how Ukrainian drone experts fortify Denmark’s "drone wall" and the tragedy of the Indonesian school collapse. Learn about the Nord Stream sabotage suspect detained in Poland, rising repression in Vietnam, Afghanistan’s internet blackout, Tony Blair’s diplomatic role in Gaza, and a critical nuclear outage in Ukraine. Engage with stories of innovation, struggle, and diplomacy shaping our interconnected world. Like, comment, and subscribe for more insights beyond headlines! #GlobalNews #UkraineDefense #DroneTechnology #IndonesiaTragedy #NordStream</itunes:summary>
+      <itunes:subtitle>Explore today’s most compelling global tales of r…</itunes:subtitle>
+      <description>Explore today’s most compelling global tales of resilience and conflict. On October 1, 2025, witness how Ukrainian drone experts fortify Denmark’s "drone wall" and the tragedy of the Indonesian school collapse. Learn about the Nord Stream sabotage suspect detained in Poland, rising repression in Vietnam, Afghanistan’s internet blackout, Tony Blair’s diplomatic role in Gaza, and a critical nuclear outage in Ukraine. Engage with stories of innovation, struggle, and diplomacy shaping our interconnected world. Like, comment, and subscribe for more insights beyond headlines! #GlobalNews #UkraineDefense #DroneTechnology #IndonesiaTragedy #NordStream</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2179824879-greengroundit-global-stories-resilience.mp3" length="2015133" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2179090183</guid>
       <title>Trump-Netanyahu Peace Plan &amp; Global Crises Update Sept 2025 #GazaPeace #WorldNews #GlobalCrossroads</title>
