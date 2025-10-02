@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Wed, 01 Oct 2025 07:19:41 +0000</pubDate>
-    <lastBuildDate>Wed, 01 Oct 2025 07:19:41 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Oct 2025 07:04:24 +0000</pubDate>
+    <lastBuildDate>Thu, 02 Oct 2025 07:04:24 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2180531739</guid>
+      <title>Jane Goodall’s Legacy &amp; Our World Today: Reflections and Challenges #JaneGoodall #Legacy #Environmen</title>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/jane-goodalls-legacy-our-world</link>
+      <itunes:duration>00:05:03</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>"&#x1f3a7;&#x1f30d; Tune in on October 2, 2025, as we honor Jane Goodall’s legacy and delve into today’s complex global landscape. From her revolutionary chimp studies to the pressing global challenges we face, we examine the intersections of nature, politics, and humanity. Discover the role of advocacy in climate, the dynamics of geopolitical tensions, and the inspiring resilience of communities worldwide. Engage with us and subscribe to Greenground for deeper insights. Let your voice be heard in the comments! #JaneGoodallLegacy #GlobalChallenges2025 #ConservationMatters #Primatology #WorldNewsUpdate"</itunes:summary>
+      <itunes:subtitle>"&#x1f3a7;&#x1f30d; Tune in on October 2, 2025, as we honor Jan…</itunes:subtitle>
+      <description>"&#x1f3a7;&#x1f30d; Tune in on October 2, 2025, as we honor Jane Goodall’s legacy and delve into today’s complex global landscape. From her revolutionary chimp studies to the pressing global challenges we face, we examine the intersections of nature, politics, and humanity. Discover the role of advocacy in climate, the dynamics of geopolitical tensions, and the inspiring resilience of communities worldwide. Engage with us and subscribe to Greenground for deeper insights. Let your voice be heard in the comments! #JaneGoodallLegacy #GlobalChallenges2025 #ConservationMatters #Primatology #WorldNewsUpdate"</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2180531739-greengroundit-jane-goodalls-legacy-our-world.mp3" length="1820157" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2179824879</guid>
       <title>Global Stories: Resilience &amp; Conflict 10/1/2025 #GlobalNews #UkraineDefense</title>
