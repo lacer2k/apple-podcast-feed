@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Thu, 02 Oct 2025 07:04:24 +0000</pubDate>
-    <lastBuildDate>Thu, 02 Oct 2025 07:04:24 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Oct 2025 07:05:07 +0000</pubDate>
+    <lastBuildDate>Fri, 03 Oct 2025 07:05:07 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2181428255</guid>
+      <title>Global Stories of Change &amp; Hope Greenground Monologue 10/3/25 #GlobalNew</title>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-stories-of-change-hope</link>
+      <itunes:duration>00:05:32</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f680; Embark on a global journey with Alvin in our latest podcast episode: *Global Stories of Change and Hope* | Greenground Monologue – October 3, 2025. &#x1f30d; Uncover electrifying scenes from Paris’ justice strikes, dive into intense UN climate finance talks, and discover Japan’s ultra-fast satellite internet breakthrough. Witness the heartwarming rescue of cheetah cubs in Somaliland, the dramatic flotilla off Gaza, and the quiet abdication of Luxembourg’s Grand Duke. These stories inspire reflection, connection, and engagement. Join us in exploring the pivotal moments shaping our collective future. Subscribe now and let’s transform together! &#x1f3a7;✨ #GlobalNews #ClimateAction #ParisStrikes #SatelliteInternet #WildlifeRescue</itunes:summary>
+      <itunes:subtitle>&#x1f680; Embark on a global journey with Alvin in our l…</itunes:subtitle>
+      <description>&#x1f680; Embark on a global journey with Alvin in our latest podcast episode: *Global Stories of Change and Hope* | Greenground Monologue – October 3, 2025. &#x1f30d; Uncover electrifying scenes from Paris’ justice strikes, dive into intense UN climate finance talks, and discover Japan’s ultra-fast satellite internet breakthrough. Witness the heartwarming rescue of cheetah cubs in Somaliland, the dramatic flotilla off Gaza, and the quiet abdication of Luxembourg’s Grand Duke. These stories inspire reflection, connection, and engagement. Join us in exploring the pivotal moments shaping our collective future. Subscribe now and let’s transform together! &#x1f3a7;✨ #GlobalNews #ClimateAction #ParisStrikes #SatelliteInternet #WildlifeRescue</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2181428255-greengroundit-global-stories-of-change-hope.mp3" length="1993821" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2180531739</guid>
       <title>Jane Goodall’s Legacy &amp; Our World Today: Reflections and Challenges #JaneGoodall #Legacy #Environmen</title>
