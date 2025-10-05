@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Sat, 04 Oct 2025 10:02:12 +0000</pubDate>
-    <lastBuildDate>Sat, 04 Oct 2025 10:02:12 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Oct 2025 10:02:05 +0000</pubDate>
+    <lastBuildDate>Sun, 05 Oct 2025 10:02:05 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2182747235</guid>
+      <title>Global Trends Explored Energy Risks &amp; Leadership Changes #Hungary #Japan #MiddleEast #SoundCloud</title>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-trends-explored-energy</link>
+      <itunes:duration>00:04:20</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d;&#x1f3a7; Dive into "Global Shifts: Hungary’s Energy Gamble, Japan’s New Leader &amp; Middle East Peace Hopes" - gripping events shaping our world! Hungary’s risky move on Russian energy challenges Europe’s unity. Typhoon Matmo shows nature’s unpredictability, and as protests shake the Maldives, Japan stands ready for a historic change with Sanae Takaichi. Meanwhile, a spark of hope in the Middle East ignites as Hamas approaches peace talks, and Egypt readies pivotal discussions on Gaza. Get the inside track on these unfolding stories! Remember to like, comment, and subscribe to stay updated on future developments. &#x1f4c5; Oct 5, 2025 &#x1f517; #GlobalNews #Hungary #JapanPolitics #MiddleEast #ClimateChange</itunes:summary>
+      <itunes:subtitle>&#x1f30d;&#x1f3a7; Dive into "Global Shifts: Hungary’s Energy G…</itunes:subtitle>
+      <description>&#x1f30d;&#x1f3a7; Dive into "Global Shifts: Hungary’s Energy Gamble, Japan’s New Leader &amp; Middle East Peace Hopes" - gripping events shaping our world! Hungary’s risky move on Russian energy challenges Europe’s unity. Typhoon Matmo shows nature’s unpredictability, and as protests shake the Maldives, Japan stands ready for a historic change with Sanae Takaichi. Meanwhile, a spark of hope in the Middle East ignites as Hamas approaches peace talks, and Egypt readies pivotal discussions on Gaza. Get the inside track on these unfolding stories! Remember to like, comment, and subscribe to stay updated on future developments. &#x1f4c5; Oct 5, 2025 &#x1f517; #GlobalNews #Hungary #JapanPolitics #MiddleEast #ClimateChange</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2182747235-greengroundit-global-trends-explored-energy.mp3" length="1560813" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2182188719</guid>
       <title>Gaza Peace Plan &amp; Global Unrest: Trump’s Vision Fuels Worldwide Protests #Gaza #GlobalPolitics #Peac</title>
