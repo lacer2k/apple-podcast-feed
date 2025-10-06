@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Sun, 05 Oct 2025 10:02:05 +0000</pubDate>
-    <lastBuildDate>Sun, 05 Oct 2025 10:02:05 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Oct 2025 07:04:03 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Oct 2025 07:04:03 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,30 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2183274563</guid>
+      <title>Global Pulse 10/6/25: Diplomacy &amp; Drama Unfold #News #GlobalUpdates #Cricket #WorldEvents</title>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-pulse-10-6-25-diplomacy</link>
+      <itunes:duration>00:04:48</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d; Global Pulse: October 6, 2025 &#x1f30d; 
+
+&#x1f3a7; Tune in to the buzz of today’s world! Explore the influential US-India summit with President Trump, delve into Russia’s latest move on Ukraine’s gas lines, and witness the heart-wrenching school tragedy in Indonesia. As we edge closer to peace in the Middle East with Israel-Hamas talks and uncover cultural clashes in Canada, brace yourself for Manchester’s shocking attack. On a lighter note, celebrate India’s women claiming the cricket World Cup amid political drama. Dive deep into diplomacy, disasters, and sports, uniting today’s headlines in one compelling narrative. 
+
+#GlobalNews #IndiaUSRelations #UkraineConflict #IndonesiaDisaster #MiddleEastPeace #CricketWorldCup #DiplomacyInFocus #InDepthAnalysis #StayInformed &#x1f517;&#x1f50a;</itunes:summary>
+      <itunes:subtitle>&#x1f30d; Global Pulse: October 6, 2025 &#x1f30d; 
+
+&#x1f3a7; Tune in …</itunes:subtitle>
+      <description>&#x1f30d; Global Pulse: October 6, 2025 &#x1f30d; 
+
+&#x1f3a7; Tune in to the buzz of today’s world! Explore the influential US-India summit with President Trump, delve into Russia’s latest move on Ukraine’s gas lines, and witness the heart-wrenching school tragedy in Indonesia. As we edge closer to peace in the Middle East with Israel-Hamas talks and uncover cultural clashes in Canada, brace yourself for Manchester’s shocking attack. On a lighter note, celebrate India’s women claiming the cricket World Cup amid political drama. Dive deep into diplomacy, disasters, and sports, uniting today’s headlines in one compelling narrative. 
+
+#GlobalNews #IndiaUSRelations #UkraineConflict #IndonesiaDisaster #MiddleEastPeace #CricketWorldCup #DiplomacyInFocus #InDepthAnalysis #StayInformed &#x1f517;&#x1f50a;</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2183274563-greengroundit-global-pulse-10-6-25-diplomacy.mp3" length="1734621" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2182747235</guid>
       <title>Global Trends Explored Energy Risks &amp; Leadership Changes #Hungary #Japan #MiddleEast #SoundCloud</title>
