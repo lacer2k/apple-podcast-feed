@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Tue, 07 Oct 2025 07:04:34 +0000</pubDate>
-    <lastBuildDate>Tue, 07 Oct 2025 07:04:34 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Oct 2025 13:13:22 +0000</pubDate>
+    <lastBuildDate>Wed, 08 Oct 2025 13:13:22 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2185026783</guid>
+      <title>Global Headlines and Human Stories: Dive into 08 Oct 2025 #InternationalNews #MiddleEastConfli</title>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-headlines-and-human</link>
+      <itunes:duration>00:06:02</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f3a7; Dive into "Global Headlines and Human Stories — 08 October 2025"! &#x1f30d; From the shadows of the Israel–Hamas conflict to South Sudan’s tentative peace, explore the narratives shaping our world. Discover how a major phone-theft bust impacts London, unravel political turmoil in Germany, and witness the heart of urban food crises. Journey through Venezuela’s path to stability, the delicate geopolitics of India and Pakistan, and Nepal’s vibrant youth movement. &#x1f5e3;️ Engage with us; drop your insights in the comments and hit subscribe for more depth-driven coverage! #InternationalNews #MiddleEastConflict #SouthSudan #LondonCrime #GermanPolitics</itunes:summary>
+      <itunes:subtitle>&#x1f3a7; Dive into "Global Headlines and Human Stories …</itunes:subtitle>
+      <description>&#x1f3a7; Dive into "Global Headlines and Human Stories — 08 October 2025"! &#x1f30d; From the shadows of the Israel–Hamas conflict to South Sudan’s tentative peace, explore the narratives shaping our world. Discover how a major phone-theft bust impacts London, unravel political turmoil in Germany, and witness the heart of urban food crises. Journey through Venezuela’s path to stability, the delicate geopolitics of India and Pakistan, and Nepal’s vibrant youth movement. &#x1f5e3;️ Engage with us; drop your insights in the comments and hit subscribe for more depth-driven coverage! #InternationalNews #MiddleEastConflict #SouthSudan #LondonCrime #GermanPolitics</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2185026783-greengroundit-global-headlines-and-human.mp3" length="2177818" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2184112431</guid>
       <title>China’s Robot Rise &amp; Gaza’s Crisis: Unveiling Global Shifts #Robotics #GlobalIssues #Soundcloud</title>
