@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Fri, 10 Oct 2025 07:03:46 +0000</pubDate>
-    <lastBuildDate>Fri, 10 Oct 2025 07:03:46 +0000</lastBuildDate>
+    <pubDate>Sat, 11 Oct 2025 07:13:54 +0000</pubDate>
+    <lastBuildDate>Sat, 11 Oct 2025 07:13:54 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2187770783</guid>
+      <title>Fragile Peace in Gaza Amid Global Turmoil #GazaCeasefire #PeaceInGa</title>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/fragile-peace-in-gaza-amid</link>
+      <itunes:duration>00:05:55</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>**Description:** Discover the fragile peace in Gaza as families return cautiously amidst a tense ceasefire. Dive into the secretive diplomacy, intense hostage talks, and the reality of life post-conflict. Beyond Gaza, feel the ripple across the globe. From Venezuela’s María Corina Machado accepting the Nobel Peace Prize to North Korea flashing its military might, Peru’s political turbulence, the ICC’s bold stance on Duterte, and new Baltic tensions—each thread weaves a story of power, hope, and resilience. Tune in for a global update that matters. Your insight fuels change. Join us. #GazaCeasefire #PeaceInGaza #GlobalPolitics #NobelPeacePrize2025 #NorthKoreaMissiles</itunes:summary>
+      <itunes:subtitle>**Description:** Discover the fragile peace in Ga…</itunes:subtitle>
+      <description>**Description:** Discover the fragile peace in Gaza as families return cautiously amidst a tense ceasefire. Dive into the secretive diplomacy, intense hostage talks, and the reality of life post-conflict. Beyond Gaza, feel the ripple across the globe. From Venezuela’s María Corina Machado accepting the Nobel Peace Prize to North Korea flashing its military might, Peru’s political turbulence, the ICC’s bold stance on Duterte, and new Baltic tensions—each thread weaves a story of power, hope, and resilience. Tune in for a global update that matters. Your insight fuels change. Join us. #GazaCeasefire #PeaceInGaza #GlobalPolitics #NobelPeacePrize2025 #NorthKoreaMissiles</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2187770783-greengroundit-fragile-peace-in-gaza-amid.mp3" length="2133357" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2186870623</guid>
       <title>Global Headlines Today: Ceasefires, Earthquakes &amp; More #GlobalNewsTod</title>
