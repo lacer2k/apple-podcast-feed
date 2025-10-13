@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Sun, 12 Oct 2025 07:02:55 +0000</pubDate>
-    <lastBuildDate>Sun, 12 Oct 2025 07:02:55 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Oct 2025 07:07:04 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Oct 2025 07:07:04 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2188948827</guid>
+      <title>Unveil Global Insights: October 2025 Highlights #GreengroundMonologue #WorldNews2025</title>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/unveil-global-insights-october</link>
+      <itunes:duration>00:05:42</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Uncover today’s global headlines that resonate deeply! &#x1f30e; With Alvin at Greenground, delve into the heartbreaking South Africa bus tragedy, unfolding peace efforts in Israel, Madagascar’s turmoil, North Korea’s missile displays, Mexico’s disastrous floods, and Haiti’s dire hunger crisis. On this International Day for Disaster Risk Reduction, let’s explore how resilience can transform our world. Immerse yourself in a monologue that unites us all. Engage, share your thoughts, and join our mission for stories that stir the soul! &#x1f399;️ #GreengroundMonologue #WorldNews2025 #SouthAfricaTragedy #IsraelPeace #MadagascarCrisis</itunes:summary>
+      <itunes:subtitle>Uncover today’s global headlines that resonate de…</itunes:subtitle>
+      <description>Uncover today’s global headlines that resonate deeply! &#x1f30e; With Alvin at Greenground, delve into the heartbreaking South Africa bus tragedy, unfolding peace efforts in Israel, Madagascar’s turmoil, North Korea’s missile displays, Mexico’s disastrous floods, and Haiti’s dire hunger crisis. On this International Day for Disaster Risk Reduction, let’s explore how resilience can transform our world. Immerse yourself in a monologue that unites us all. Engage, share your thoughts, and join our mission for stories that stir the soul! &#x1f399;️ #GreengroundMonologue #WorldNews2025 #SouthAfricaTragedy #IsraelPeace #MadagascarCrisis</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2188948827-greengroundit-unveil-global-insights-october.mp3" length="2056029" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2188346703</guid>
       <title>Ceasefire Hopes Amid Global Tensions: October 12, 2025 Update #GlobalEvents #PeaceTalks</title>
