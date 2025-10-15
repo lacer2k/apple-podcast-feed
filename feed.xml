@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Tue, 14 Oct 2025 07:04:09 +0000</pubDate>
-    <lastBuildDate>Tue, 14 Oct 2025 07:04:09 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Oct 2025 10:02:10 +0000</pubDate>
+    <lastBuildDate>Wed, 15 Oct 2025 10:02:10 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2190644475</guid>
+      <title>Global Tensions &amp; Diplomatic Shifts: Top Stories Oct 15, 2025 #GlobalNews</title>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-tensions-diplomatic</link>
+      <itunes:duration>00:04:28</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Unpack the pulse of today’s world with our latest update on October 15, 2025. From Madagascar’s parliament shakeup to Africa’s peace endeavors, immerse yourself in the drama of global markets, driven by US-China trade talks. Journey into Southeast Asia’s discreet diplomacy for peace and delve into the upcoming US-Argentina meeting, rich political currents swirling. Plus, discover Iran’s espionage verdicts and Italy’s explosion aftermath. Explore the nuance, intrigue, and global impact. Like, comment, and subscribe for your daily dose of world news! &#x1f30d; #GlobalNews #MadagascarCrisis #USChinaTrade #SoutheastAsiaPeace #ArgentinaPolitics</itunes:summary>
+      <itunes:subtitle>Unpack the pulse of today’s world with our latest…</itunes:subtitle>
+      <description>Unpack the pulse of today’s world with our latest update on October 15, 2025. From Madagascar’s parliament shakeup to Africa’s peace endeavors, immerse yourself in the drama of global markets, driven by US-China trade talks. Journey into Southeast Asia’s discreet diplomacy for peace and delve into the upcoming US-Argentina meeting, rich political currents swirling. Plus, discover Iran’s espionage verdicts and Italy’s explosion aftermath. Explore the nuance, intrigue, and global impact. Like, comment, and subscribe for your daily dose of world news! &#x1f30d; #GlobalNews #MadagascarCrisis #USChinaTrade #SoutheastAsiaPeace #ArgentinaPolitics</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2190644475-greengroundit-global-tensions-diplomatic.mp3" length="1612941" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2189809227</guid>
       <title>Middle East Breakthrough &amp; Global Tensions: Stories Shaping Our World Oct 2025 #MiddleEast #GlobalNe</title>
