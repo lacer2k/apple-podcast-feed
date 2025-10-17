@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Thu, 16 Oct 2025 07:06:56 +0000</pubDate>
-    <lastBuildDate>Thu, 16 Oct 2025 07:06:56 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Oct 2025 07:02:13 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Oct 2025 07:02:13 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,38 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2192275731</guid>
+      <title>Global News Update: US-Russia Talks, French Politics &amp; Unseen Crises #News #GlobalHeadlines</title>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-news-update-us-russia</link>
+      <itunes:duration>00:06:05</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d; **October 17, 2025: Global News Insight with Alvin!** &#x1f30f; Dive into today’s headlines: U.S.-Russia diplomacy heats up with critical meetings in Hungary, while France showcases political resilience. Discover groundbreaking U.S. funding for HIV initiatives in South Africa, fragile ceasefires in Gaza, and new UK espionage challenges. Italy and Yemen unveil surprising legal and military updates. &#x1f310;
+
+Hits the highlights: 
+- Insightful analysis on international diplomacy, politics, and humanitarian efforts.
+- Discover the impact of global health funding.
+- Join a caring community passionate about understanding world affairs. 
+
+&#x1f3a7; Press play and join the conversation! Don’t forget to like, comment, and subscribe for your daily dose of in-depth news. Share your thoughts in the comments! ⬇️
+
+#October172025 #GlobalNewsUpdate #USDiplomacy #RussiaUkraine #FrancePolitics #HIVAwareness #GlobalHealth #Ceasefire #Espionage #WorldAffairs #GreengroundNews</itunes:summary>
+      <itunes:subtitle>&#x1f30d; **October 17, 2025: Global News Insight with A…</itunes:subtitle>
+      <description>&#x1f30d; **October 17, 2025: Global News Insight with Alvin!** &#x1f30f; Dive into today’s headlines: U.S.-Russia diplomacy heats up with critical meetings in Hungary, while France showcases political resilience. Discover groundbreaking U.S. funding for HIV initiatives in South Africa, fragile ceasefires in Gaza, and new UK espionage challenges. Italy and Yemen unveil surprising legal and military updates. &#x1f310;
+
+Hits the highlights: 
+- Insightful analysis on international diplomacy, politics, and humanitarian efforts.
+- Discover the impact of global health funding.
+- Join a caring community passionate about understanding world affairs. 
+
+&#x1f3a7; Press play and join the conversation! Don’t forget to like, comment, and subscribe for your daily dose of in-depth news. Share your thoughts in the comments! ⬇️
+
+#October172025 #GlobalNewsUpdate #USDiplomacy #RussiaUkraine #FrancePolitics #HIVAwareness #GlobalHealth #Ceasefire #Espionage #WorldAffairs #GreengroundNews</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2192275731-greengroundit-global-news-update-us-russia.mp3" length="2194557" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2191317719</guid>
       <title>Global Turbulence: France, Haiti &amp; More Explored #FranceInCrisis #GlobalInsights</title>
