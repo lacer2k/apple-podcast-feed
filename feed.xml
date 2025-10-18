@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Fri, 17 Oct 2025 07:02:13 +0000</pubDate>
-    <lastBuildDate>Fri, 17 Oct 2025 07:02:13 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Oct 2025 07:01:22 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Oct 2025 07:01:22 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2193011363</guid>
+      <title>Global Affairs Update: Veil Bans, Venezuela Strife &amp; Middle East Crisis #Politics #GlobalNews</title>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-affairs-update-veil</link>
+      <itunes:duration>00:04:12</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>**Description:** Uncover the world’s hottest topics with Greenground’s deep dive into global affairs! &#x1f30d; From Portugal’s face veil ban stirring security vs. freedom debates to rising US-Venezuela tensions &amp; military alerts, we’ve got you covered. Explore the fragile ceasefire between Israel &amp; Hamas, and intense Bangladesh protests. Witness King Charles III’s momentous Vatican visit seeking to unite faiths, and delve into a gripping UK-Ukrainian security case. Stay on the pulse of world diplomacy, cultural clashes &amp; security issues with the most engaging updates. Hit play for international insights! &#x1f50d; #InternationalNews #PortugalVeilBan #VenezuelaUSRelations #MiddleEastConflict #IsraelHamas</itunes:summary>
+      <itunes:subtitle>**Description:** Uncover the world’s hottest topi…</itunes:subtitle>
+      <description>**Description:** Uncover the world’s hottest topics with Greenground’s deep dive into global affairs! &#x1f30d; From Portugal’s face veil ban stirring security vs. freedom debates to rising US-Venezuela tensions &amp; military alerts, we’ve got you covered. Explore the fragile ceasefire between Israel &amp; Hamas, and intense Bangladesh protests. Witness King Charles III’s momentous Vatican visit seeking to unite faiths, and delve into a gripping UK-Ukrainian security case. Stay on the pulse of world diplomacy, cultural clashes &amp; security issues with the most engaging updates. Hit play for international insights! &#x1f50d; #InternationalNews #PortugalVeilBan #VenezuelaUSRelations #MiddleEastConflict #IsraelHamas</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2193011363-greengroundit-global-affairs-update-veil.mp3" length="1515453" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2192275731</guid>
       <title>Global News Update: US-Russia Talks, French Politics &amp; Unseen Crises #News #GlobalHeadlines</title>
