@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Thu, 06 Nov 2025 10:02:38 +0000</pubDate>
-    <lastBuildDate>Thu, 06 Nov 2025 10:02:38 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Nov 2025 10:02:50 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Nov 2025 10:02:50 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2208420986</guid>
+      <title>NYC’s Historic Mayoral Victory: Global Impact + Zohran Mamdani’s Win #ZohranMamdani #NYCMayor2</title>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/nycs-historic-mayoral-victory</link>
+      <itunes:duration>00:03:29</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Join the global conversation with Alvin’s Greenground monologue! &#x1f30d;✨ Explore Zohran Mamdani’s historic win as NYC’s youngest mayor in a century, promising affordable living. Dive into Bolivia’s bold Supreme Court ruling, Sudan’s deepening crisis, and Norway’s bus security scare. Discover how the U.S. government shutdown impacts airports and powerful foreign policy moves. Plus, hear heartfelt stories from Bosnia’s tragedy. Stay informed, shape tomorrow. Subscribe, comment, and share widely! &#x1f680;&#x1f3a7; #ZohranMamdani #NYCMayor2025 #GlobalPolitics #BoliviaJustice #SudanCrisis</itunes:summary>
+      <itunes:subtitle>Join the global conversation with Alvin’s Greengr…</itunes:subtitle>
+      <description>Join the global conversation with Alvin’s Greenground monologue! &#x1f30d;✨ Explore Zohran Mamdani’s historic win as NYC’s youngest mayor in a century, promising affordable living. Dive into Bolivia’s bold Supreme Court ruling, Sudan’s deepening crisis, and Norway’s bus security scare. Discover how the U.S. government shutdown impacts airports and powerful foreign policy moves. Plus, hear heartfelt stories from Bosnia’s tragedy. Stay informed, shape tomorrow. Subscribe, comment, and share widely! &#x1f680;&#x1f3a7; #ZohranMamdani #NYCMayor2025 #GlobalPolitics #BoliviaJustice #SudanCrisis</description>
+      <enclosure length="1257405" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2208420986-greengroundit-nycs-historic-mayoral-victory.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2207592831</guid>
       <title>Global Pulse: Conflict &amp; Hope Highlights Unfold - Join the Conversation Now #GlobalPulse #Diplomacy</title>
