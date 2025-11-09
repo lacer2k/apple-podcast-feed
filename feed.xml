@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Sat, 08 Nov 2025 07:04:23 +0000</pubDate>
-    <lastBuildDate>Sat, 08 Nov 2025 07:04:23 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Nov 2025 10:01:49 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Nov 2025 10:01:49 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2209444334</guid>
+      <title>World in Flux: Global Tensions &amp; Hope Unfold - Nov 9, 2025 #GlobalNews #Ukraine</title>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/world-in-flux-global-tensions</link>
+      <itunes:duration>00:04:40</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d; Dive into ’World in Flux: Global Tensions and Hope Unfold’ as Alvin from Greenground takes you through today’s crucial global headlines! From the devastating impacts of the Ukraine conflict and the fragile ceasefires in Gaza to the pivotal diplomacy shaping Pakistan-Afghanistan relations, this monologue highlights key moments. Experience the ripples of historic visits and trade resumption amidst North Korea’s missile tests. Explore the role of social media in spreading hate speech and uncover stories of resilience and hope. Join us, stay informed, and let’s build understanding together. &#x1f3a7;✨ #GlobalNews #UkraineConflict #MiddleEastUpdates #DiplomacyMatters #NorthKoreaMissile</itunes:summary>
+      <itunes:subtitle>&#x1f30d; Dive into ’World in Flux: Global Tensions and …</itunes:subtitle>
+      <description>&#x1f30d; Dive into ’World in Flux: Global Tensions and Hope Unfold’ as Alvin from Greenground takes you through today’s crucial global headlines! From the devastating impacts of the Ukraine conflict and the fragile ceasefires in Gaza to the pivotal diplomacy shaping Pakistan-Afghanistan relations, this monologue highlights key moments. Experience the ripples of historic visits and trade resumption amidst North Korea’s missile tests. Explore the role of social media in spreading hate speech and uncover stories of resilience and hope. Join us, stay informed, and let’s build understanding together. &#x1f3a7;✨ #GlobalNews #UkraineConflict #MiddleEastUpdates #DiplomacyMatters #NorthKoreaMissile</description>
+      <enclosure length="1686669" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2209444334-greengroundit-world-in-flux-global-tensions.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2208932720</guid>
       <title>Global Pulse: Security Tensions &amp; Cultural Hope – Nov 8, 2025 #GlobalPulse #Diplomacy</title>
