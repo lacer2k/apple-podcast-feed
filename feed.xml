@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Mon, 10 Nov 2025 07:03:50 +0000</pubDate>
-    <lastBuildDate>Mon, 10 Nov 2025 07:03:50 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Nov 2025 07:04:32 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Nov 2025 07:04:32 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2210547662</guid>
+      <title>Global Headlines Security Diplomacy Climate Crossroads #November112025</title>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-headlines-security</link>
+      <itunes:duration>00:06:06</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d;&#x1f31f; Dive into Global Headlines: November 11, 2025! From Israel’s historic death penalty move to New Delhi’s tragic car bomb attack, explore the stories shaping our world. &#x1f6a8; Protests in Bangladesh, Ukraine’s defense plea, &amp; pivotal COP30 climate talks are at the forefront. Gain insight on security, trade, and climate impacts with expert analysis. &#x1f50d; Passionate about geopolitics or climate action? This is your essential update. #November112025 #WorldNews #GlobalAffairs #InternationalSecurity #ClimateSummit &#x1f4e2; Stream now to stay ahead of international events and influence the future!</itunes:summary>
+      <itunes:subtitle>&#x1f30d;&#x1f31f; Dive into Global Headlines: November 11, 202…</itunes:subtitle>
+      <description>&#x1f30d;&#x1f31f; Dive into Global Headlines: November 11, 2025! From Israel’s historic death penalty move to New Delhi’s tragic car bomb attack, explore the stories shaping our world. &#x1f6a8; Protests in Bangladesh, Ukraine’s defense plea, &amp; pivotal COP30 climate talks are at the forefront. Gain insight on security, trade, and climate impacts with expert analysis. &#x1f50d; Passionate about geopolitics or climate action? This is your essential update. #November112025 #WorldNews #GlobalAffairs #InternationalSecurity #ClimateSummit &#x1f4e2; Stream now to stay ahead of international events and influence the future!</description>
+      <enclosure length="2201469" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2210547662-greengroundit-global-headlines-security.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2209876148</guid>
       <title>Global Headlines: War, Media &amp; Migration Buzz | Nov 10, 2025 #WorldNews #BreakingNews</title>
