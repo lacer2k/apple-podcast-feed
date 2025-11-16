@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Sat, 15 Nov 2025 10:03:32 +0000</pubDate>
-    <lastBuildDate>Sat, 15 Nov 2025 10:03:32 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Nov 2025 10:03:15 +0000</pubDate>
+    <lastBuildDate>Sun, 16 Nov 2025 10:03:15 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2213464754</guid>
+      <title>Global Conflict &amp; Crisis: Breaking News Update Nov 16, 2025 #GlobalNews #Ukraine</title>
+      <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-conflict-crisis</link>
+      <itunes:duration>00:03:37</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d; Global Conflict, Corruption &amp; Crisis: Breaking News Update — Nov 16, 2025 &#x1f399;️ Immerse yourself in today’s crucial global stories. From a $100M corruption scandal rocking Ukraine, to the violent unrest in Kashmir and heartbreak in Georgia with a tragic plane crash. Dive deep into intense border conflicts in Southeast Asia, gang violence chaos in Haiti, and the high-stakes Israeli-Russian diplomacy. Uncover Canada’s bold strategy against online extremism. Stay ahead with this in-depth journey through world events! &#x1f31f; Like, comment &amp; subscribe for daily insights on important global issues. Don’t miss the links below for more! #GlobalNews #UkraineCorruption #KashmirExplosion #RussianAttacks #GeorgiaPlaneCrash</itunes:summary>
+      <itunes:subtitle>&#x1f30d; Global Conflict, Corruption &amp; Crisis: Breaking…</itunes:subtitle>
+      <description>&#x1f30d; Global Conflict, Corruption &amp; Crisis: Breaking News Update — Nov 16, 2025 &#x1f399;️ Immerse yourself in today’s crucial global stories. From a $100M corruption scandal rocking Ukraine, to the violent unrest in Kashmir and heartbreak in Georgia with a tragic plane crash. Dive deep into intense border conflicts in Southeast Asia, gang violence chaos in Haiti, and the high-stakes Israeli-Russian diplomacy. Uncover Canada’s bold strategy against online extremism. Stay ahead with this in-depth journey through world events! &#x1f31f; Like, comment &amp; subscribe for daily insights on important global issues. Don’t miss the links below for more! #GlobalNews #UkraineCorruption #KashmirExplosion #RussianAttacks #GeorgiaPlaneCrash</description>
+      <enclosure length="1308458" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2213464754-greengroundit-global-conflict-crisis.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2212990409</guid>
       <title>Global News Digest 11/15/25: Tensions, Tragedies &amp; Tariff Shifts #GlobalNews #WorldUpdates</title>
