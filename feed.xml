@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Sun, 16 Nov 2025 10:03:15 +0000</pubDate>
-    <lastBuildDate>Sun, 16 Nov 2025 10:03:15 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Nov 2025 10:03:08 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Nov 2025 10:03:08 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,40 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2213962652</guid>
+      <title>Global Crisis Roundup: Justice, Disasters &amp; Political Shifts | Nov 17, 2025 #GlobalNews #World</title>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-crisis-roundup-justice</link>
+      <itunes:duration>00:05:30</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d; Dive into our Global Crisis Roundup and stay informed on November 17, 2025’s most impactful events! From Bangladesh’s groundbreaking verdict to Vietnam’s landslide disaster and asbestos in Australian schools, we uncover justice, security, and government actions shaping our world. &#x1f310; Don’t miss Alvin from Greenground as he connects the dots on crucial developments from Haiti to the Caribbean and beyond! What’s your take on these stories? &#x1f4ad; Join the conversation in the comments and subscribe for more insights! #GlobalNews #WorldNews2025 #DailyNewsRoundUp #InternationalNews #NewsToday
+
+**Topics Covered:**
+- Bangladesh tribunal verdict
+- Ecuador drug trafficking
+- Vietnam landslide
+- Asbestos in schools
+- Caribbean military news
+- National Guard updates
+- UK immigration policy
+- Haiti gang violence</itunes:summary>
+      <itunes:subtitle>&#x1f30d; Dive into our Global Crisis Roundup and stay i…</itunes:subtitle>
+      <description>&#x1f30d; Dive into our Global Crisis Roundup and stay informed on November 17, 2025’s most impactful events! From Bangladesh’s groundbreaking verdict to Vietnam’s landslide disaster and asbestos in Australian schools, we uncover justice, security, and government actions shaping our world. &#x1f310; Don’t miss Alvin from Greenground as he connects the dots on crucial developments from Haiti to the Caribbean and beyond! What’s your take on these stories? &#x1f4ad; Join the conversation in the comments and subscribe for more insights! #GlobalNews #WorldNews2025 #DailyNewsRoundUp #InternationalNews #NewsToday
+
+**Topics Covered:**
+- Bangladesh tribunal verdict
+- Ecuador drug trafficking
+- Vietnam landslide
+- Asbestos in schools
+- Caribbean military news
+- National Guard updates
+- UK immigration policy
+- Haiti gang violence</description>
+      <enclosure length="1984749" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2213962652-greengroundit-global-crisis-roundup-justice.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2213464754</guid>
       <title>Global Conflict &amp; Crisis: Breaking News Update Nov 16, 2025 #GlobalNews #Ukraine</title>
