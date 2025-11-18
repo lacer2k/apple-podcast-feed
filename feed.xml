@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Mon, 17 Nov 2025 10:03:08 +0000</pubDate>
-    <lastBuildDate>Mon, 17 Nov 2025 10:03:08 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Nov 2025 10:02:16 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Nov 2025 10:02:16 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2214636017</guid>
+      <title>Ukraine-France Defense Pact &amp; Global Turmoil – World News Nov 18, 2025 #GlobalNews #UkraineFrance</title>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/ukraine-france-defense-pact</link>
+      <itunes:duration>00:04:56</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d;✨ Global Boost: Dive into today’s electrifying news! Join Alvin on Greenground for a thrilling journey through the Ukraine-France defense pact, unveiling Rafale jets, and sweeping political changes from Bangladesh to South America. Discover the UN’s peace plan for Gaza, U.S.-Saudi arms talks, and Manila’s massive protests shaking global diplomacy. Learn about safeguarding Timbuktu’s treasures and significant security updates in Ukraine and India. Stay informed with style and depth! Hit play, like, subscribe &amp; share! &#x1f680;✈️ #GlobalNews #UkraineDefense #FranceUkraine #BangladeshCrisis #GazaPeace</itunes:summary>
+      <itunes:subtitle>&#x1f30d;✨ Global Boost: Dive into today’s electrifying …</itunes:subtitle>
+      <description>&#x1f30d;✨ Global Boost: Dive into today’s electrifying news! Join Alvin on Greenground for a thrilling journey through the Ukraine-France defense pact, unveiling Rafale jets, and sweeping political changes from Bangladesh to South America. Discover the UN’s peace plan for Gaza, U.S.-Saudi arms talks, and Manila’s massive protests shaking global diplomacy. Learn about safeguarding Timbuktu’s treasures and significant security updates in Ukraine and India. Stay informed with style and depth! Hit play, like, subscribe &amp; share! &#x1f680;✈️ #GlobalNews #UkraineDefense #FranceUkraine #BangladeshCrisis #GazaPeace</description>
+      <enclosure length="1779549" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2214636017-greengroundit-ukraine-france-defense-pact.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2213962652</guid>
       <title>Global Crisis Roundup: Justice, Disasters &amp; Political Shifts | Nov 17, 2025 #GlobalNews #World</title>
