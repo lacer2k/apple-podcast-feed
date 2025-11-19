@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Tue, 18 Nov 2025 10:02:16 +0000</pubDate>
-    <lastBuildDate>Tue, 18 Nov 2025 10:02:16 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Nov 2025 10:02:23 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Nov 2025 10:02:23 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2215205993</guid>
+      <title>World News Digest: Power, Principle &amp; Hope - Nov 19, 2025 #WorldNews #Greenground</title>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/world-news-digest-power</link>
+      <itunes:duration>00:05:56</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Explore the pulse of our planet with "Today’s World in 8 Minutes: Power, Principle &amp; Hope." &#x1f30d;✨ Dive into intriguing stories from Washington’s power corridors to Timbuktu’s vibrant history. Get insights on NASA’s Sentinel-6 launch and more. Discover Saudi Arabia as a non-NATO ally, the UN’s stance on the death penalty, changes for Indian travelers in Iran, and Chile’s pivotal presidential runoff. Delve into climate science updates, New Zealand’s police crisis, and Timbuktu’s remarkable resilience. Find out why Sri Lanka’s tourism is thriving. &#x1f30e;&#x1f50d; Unravel the courage and connections shaping our world. &#x1f3a7;&#x1f517; #WorldNews #GlobalAffairs #CurrentEvents #Geopolitics #BreakingNews</itunes:summary>
+      <itunes:subtitle>Explore the pulse of our planet with "Today’s Wor…</itunes:subtitle>
+      <description>Explore the pulse of our planet with "Today’s World in 8 Minutes: Power, Principle &amp; Hope." &#x1f30d;✨ Dive into intriguing stories from Washington’s power corridors to Timbuktu’s vibrant history. Get insights on NASA’s Sentinel-6 launch and more. Discover Saudi Arabia as a non-NATO ally, the UN’s stance on the death penalty, changes for Indian travelers in Iran, and Chile’s pivotal presidential runoff. Delve into climate science updates, New Zealand’s police crisis, and Timbuktu’s remarkable resilience. Find out why Sri Lanka’s tourism is thriving. &#x1f30e;&#x1f50d; Unravel the courage and connections shaping our world. &#x1f3a7;&#x1f517; #WorldNews #GlobalAffairs #CurrentEvents #Geopolitics #BreakingNews</description>
+      <enclosure length="2140701" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2215205993-greengroundit-world-news-digest-power.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2214636017</guid>
       <title>Ukraine-France Defense Pact &amp; Global Turmoil – World News Nov 18, 2025 #GlobalNews #UkraineFrance</title>
