@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Sat, 22 Nov 2025 10:02:32 +0000</pubDate>
-    <lastBuildDate>Sat, 22 Nov 2025 10:02:32 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Nov 2025 10:02:49 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Nov 2025 10:02:49 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2217497636</guid>
+      <title>Global Pulse 23 Nov 2025: Ukraine Peace, COP30 Climate Action, Brazil Politics Highlights #UkrainePe</title>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-pulse-23-nov-2025</link>
+      <itunes:duration>00:06:00</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Tune in to Global Pulse for November 23, 2025, as we unravel today’s pivotal global stories! Explore the tense negotiations of the Ukraine peace proposal by the US and Russia, gain insights into the COP30 climate summit’s triumphs and trials in Brazil, and dive into Brazil’s turbulence with Bolsonaro’s unexpected arrest. Feel the global shock from Nigeria’s mass kidnapping, delve into a UK corruption scandal linked to Russia, and be inspired by Belarus’s diplomatic endeavors. Uncover the innovative alliance forming between India, Australia, and Canada post-G20. This is your must-listen-to update on the political, environmental, and humanitarian issues shaping our world. Engage, comment, and subscribe for invaluable insights on shaping our collective future. Let’s stay curious and connected! #UkrainePeacePlan #COP30ClimateSummit #BrazilPolitics #BolsonaroArrest #NigeriaKidnapping</itunes:summary>
+      <itunes:subtitle>Tune in to Global Pulse for November 23, 2025, as…</itunes:subtitle>
+      <description>Tune in to Global Pulse for November 23, 2025, as we unravel today’s pivotal global stories! Explore the tense negotiations of the Ukraine peace proposal by the US and Russia, gain insights into the COP30 climate summit’s triumphs and trials in Brazil, and dive into Brazil’s turbulence with Bolsonaro’s unexpected arrest. Feel the global shock from Nigeria’s mass kidnapping, delve into a UK corruption scandal linked to Russia, and be inspired by Belarus’s diplomatic endeavors. Uncover the innovative alliance forming between India, Australia, and Canada post-G20. This is your must-listen-to update on the political, environmental, and humanitarian issues shaping our world. Engage, comment, and subscribe for invaluable insights on shaping our collective future. Let’s stay curious and connected! #UkrainePeacePlan #COP30ClimateSummit #BrazilPolitics #BolsonaroArrest #NigeriaKidnapping</description>
+      <enclosure length="2161436" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2217497636-greengroundit-global-pulse-23-nov-2025.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2217041669</guid>
       <title>China’s Floating Island and Global Crisis News November 2025 #GlobalNe #NuclearResilient</title>
