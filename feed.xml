@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Mon, 24 Nov 2025 10:01:18 +0000</pubDate>
-    <lastBuildDate>Mon, 24 Nov 2025 10:01:18 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Nov 2025 10:01:59 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Nov 2025 10:01:59 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2218631096</guid>
+      <title>Diplomacy Unplugged: Stories of Crisis &amp; Hope | Nov 25, 2025 #InternationalRelations #GlobalNarrativ</title>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/diplomacy-unplugged-stories-of</link>
+      <itunes:duration>00:03:36</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d; Unpack the world with "Global Stories of Diplomacy, Crisis &amp; Hope" &#x1f30f; | Nov 25, 2025: Dive into the pulse of today! From Canada’s PM rekindling ties in India to the UK’s travel shake-up, Ethiopia’s dual crises, US-Ukraine talks, and Gaza’s fragile peace. Plus, a UN report spotlighting gender violence. Discover how global politics, nature, and social justice intersect. Stay informed, stay inspired! &#x1f449; Like, comment &amp; subscribe for more vital world updates! #InternationalRelations #GlobalNews2025 #EthiopiaCrisis #PeaceTalks #UKTravelUpdate &#x1f310;&#x1f4ac;&#x1f514;</itunes:summary>
+      <itunes:subtitle>&#x1f30d; Unpack the world with "Global Stories of Diplo…</itunes:subtitle>
+      <description>&#x1f30d; Unpack the world with "Global Stories of Diplomacy, Crisis &amp; Hope" &#x1f30f; | Nov 25, 2025: Dive into the pulse of today! From Canada’s PM rekindling ties in India to the UK’s travel shake-up, Ethiopia’s dual crises, US-Ukraine talks, and Gaza’s fragile peace. Plus, a UN report spotlighting gender violence. Discover how global politics, nature, and social justice intersect. Stay informed, stay inspired! &#x1f449; Like, comment &amp; subscribe for more vital world updates! #InternationalRelations #GlobalNews2025 #EthiopiaCrisis #PeaceTalks #UKTravelUpdate &#x1f310;&#x1f4ac;&#x1f514;</description>
+      <enclosure length="1298156" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2218631096-greengroundit-diplomacy-unplugged-stories-of.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2217969356</guid>
       <title>Ukraine Diplomacy Update, Vietnam Floods Impact &amp; More 11/24/25 #GlobalNews #WorldNews</title>
