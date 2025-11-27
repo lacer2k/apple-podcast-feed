@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Wed, 26 Nov 2025 10:03:58 +0000</pubDate>
-    <lastBuildDate>Wed, 26 Nov 2025 10:03:58 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Nov 2025 10:06:24 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Nov 2025 10:06:24 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2219769017</guid>
+      <title>Global Crisis Unfolds: White House Ambush &amp; Worldwide Protests #DiplomaticTension #WorldNews</title>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-crisis-unfolds-white</link>
+      <itunes:duration>00:04:25</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d; *A World in Motion: November 27, 2025* &#x1f6a8; Dive into today’s gripping headlines on Greenground! An ambush near the #WhiteHouse leaves two National Guard troops fighting for their lives, sparking global tensions. &#x1f1fa;&#x1f1f8; Discover the arrest of a 29-year-old Afghan national and what it means for #WashingtonDCNews. Across the globe, unravel Brazil’s democracy post-Bolsonaro, Bulgaria’s massive protests, and Peru’s corruption trial. &#x1f1e7;&#x1f1f7;&#x1f1e7;&#x1f1ec;&#x1f1f5;&#x1f1ea; Feel the pulse of Hong Kong’s latest crisis. &#x1f525; Alvin is breaking it all down in this episode! Hit **LIKE** for daily reflections, **SUBSCRIBE** for global insights, and **COMMENT** with your thoughts. Explore more via the links below! &#x1f449; #WorldNewsToday #NationalGuard #BreakingNews2025 #DiplomaticTensions #GlobalSolidarity Stay informed. Stay connected. This is *Greenground*.</itunes:summary>
+      <itunes:subtitle>&#x1f30d; *A World in Motion: November 27, 2025* &#x1f6a8; Dive…</itunes:subtitle>
+      <description>&#x1f30d; *A World in Motion: November 27, 2025* &#x1f6a8; Dive into today’s gripping headlines on Greenground! An ambush near the #WhiteHouse leaves two National Guard troops fighting for their lives, sparking global tensions. &#x1f1fa;&#x1f1f8; Discover the arrest of a 29-year-old Afghan national and what it means for #WashingtonDCNews. Across the globe, unravel Brazil’s democracy post-Bolsonaro, Bulgaria’s massive protests, and Peru’s corruption trial. &#x1f1e7;&#x1f1f7;&#x1f1e7;&#x1f1ec;&#x1f1f5;&#x1f1ea; Feel the pulse of Hong Kong’s latest crisis. &#x1f525; Alvin is breaking it all down in this episode! Hit **LIKE** for daily reflections, **SUBSCRIBE** for global insights, and **COMMENT** with your thoughts. Explore more via the links below! &#x1f449; #WorldNewsToday #NationalGuard #BreakingNews2025 #DiplomaticTensions #GlobalSolidarity Stay informed. Stay connected. This is *Greenground*.</description>
+      <enclosure length="1593932" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2219769017-greengroundit-global-crisis-unfolds-white.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2219205191</guid>
       <title>Ukraine Peace Talks Insights, Afghanistan Tragedy &amp; Unmissable Global News #Ukraine #GlobalUpdates</title>
