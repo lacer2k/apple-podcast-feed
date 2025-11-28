@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Thu, 27 Nov 2025 10:06:24 +0000</pubDate>
-    <lastBuildDate>Thu, 27 Nov 2025 10:06:24 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Nov 2025 10:01:58 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Nov 2025 10:01:58 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2220431240</guid>
+      <title>Global Crisis 2025: Stories of Conflict &amp; Change #WorldStories #GlobalCrisis</title>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-crisis-2025-stories-of</link>
+      <itunes:duration>00:01:17</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d; Dive into November 28th, 2025: Global turmoil and change unravel stories shaping our world! &#x1f525; Join Alvin from Greenground as he explores major global events. From the Hong Kong fire to Ukraine’s escalating tensions, France’s military initiatives, and US security alerts—discover the shifts defining today and tomorrow. &#x1f1ed;&#x1f1f0;&#x1f1fa;&#x1f1e6;&#x1f1eb;&#x1f1f7;&#x1f1fa;&#x1f1f8; Hashtags keep us connected: #WorldNews2025 #GlobalCrisis #HongKongFire #UkraineWar #MacronFrance. Engage, learn, and be part of the change! Like, comment, and subscribe for more! &#x1f4ac;✨&#x1f514;</itunes:summary>
+      <itunes:subtitle>&#x1f30d; Dive into November 28th, 2025: Global turmoil …</itunes:subtitle>
+      <description>&#x1f30d; Dive into November 28th, 2025: Global turmoil and change unravel stories shaping our world! &#x1f525; Join Alvin from Greenground as he explores major global events. From the Hong Kong fire to Ukraine’s escalating tensions, France’s military initiatives, and US security alerts—discover the shifts defining today and tomorrow. &#x1f1ed;&#x1f1f0;&#x1f1fa;&#x1f1e6;&#x1f1eb;&#x1f1f7;&#x1f1fa;&#x1f1f8; Hashtags keep us connected: #WorldNews2025 #GlobalCrisis #HongKongFire #UkraineWar #MacronFrance. Engage, learn, and be part of the change! Like, comment, and subscribe for more! &#x1f4ac;✨&#x1f514;</description>
+      <enclosure length="463964" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2220431240-greengroundit-global-crisis-2025-stories-of.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2219769017</guid>
       <title>Global Crisis Unfolds: White House Ambush &amp; Worldwide Protests #DiplomaticTension #WorldNews</title>
