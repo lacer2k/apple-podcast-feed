@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Sat, 29 Nov 2025 10:02:35 +0000</pubDate>
-    <lastBuildDate>Sat, 29 Nov 2025 10:02:35 +0000</lastBuildDate>
+    <pubDate>Sun, 30 Nov 2025 10:02:37 +0000</pubDate>
+    <lastBuildDate>Sun, 30 Nov 2025 10:02:37 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2221413743</guid>
+      <title>Global Beats: Gaza, Ukraine, Venezuela &amp; More | Alvin’s Soundtrack #WorldNews #Gaza #Ukraine #Venezu</title>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-beats-gaza-ukraine</link>
+      <itunes:duration>00:01:04</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d; *Dive into the pulse of the world with Alvin from Greenground!* In this powerful episode, we unravel the stories you need to hear: the heart-wrenching impact in Gaza, the quest for peace in Ukraine, political currents in Venezuela, and the humanitarian struggles in Sudan. &#x1f30d; This is more than news; it’s humanity’s story—triumphs, challenges, and everything in between. Let’s reflect together! &#x1f514; Don’t miss out—like, subscribe, and hit the bell for more. &#x1f4ac; Share your thoughts below! #WorldNews2025 #GazaUpdate #UkrainePeaceTalks #VenezuelaCrisis #TrumpNews #SoundcloudPodcasts</itunes:summary>
+      <itunes:subtitle>&#x1f30d; *Dive into the pulse of the world with Alvin f…</itunes:subtitle>
+      <description>&#x1f30d; *Dive into the pulse of the world with Alvin from Greenground!* In this powerful episode, we unravel the stories you need to hear: the heart-wrenching impact in Gaza, the quest for peace in Ukraine, political currents in Venezuela, and the humanitarian struggles in Sudan. &#x1f30d; This is more than news; it’s humanity’s story—triumphs, challenges, and everything in between. Let’s reflect together! &#x1f514; Don’t miss out—like, subscribe, and hit the bell for more. &#x1f4ac; Share your thoughts below! #WorldNews2025 #GazaUpdate #UkrainePeaceTalks #VenezuelaCrisis #TrumpNews #SoundcloudPodcasts</description>
+      <enclosure length="390524" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2221413743-greengroundit-global-beats-gaza-ukraine.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2220962651</guid>
       <title>Nigeria’s Turmoil: Security Threats, Disasters &amp; Political Upheaval #GlobalCrisis #Nigeria</title>
