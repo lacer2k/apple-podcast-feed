@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Wed, 03 Dec 2025 10:04:02 +0000</pubDate>
-    <lastBuildDate>Wed, 03 Dec 2025 10:04:02 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Dec 2025 10:02:38 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Dec 2025 10:02:38 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2223716237</guid>
+      <title>UN Demands, Global Crises &amp; Hope Dec 4, 2025 #WorldHeadlines #GlobalNews #HopeInChaos</title>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/un-demands-global-crises-hope</link>
+      <itunes:duration>00:03:24</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f3a7; Dive into today’s pivotal moments: Dec 4, 2025, with Greenground! &#x1f30d; UN’s bold demand on Ukrainian children, crises in Sudan &amp; Gaza, plus US-Russia nuclear tensions. Discover how education &amp; diplomacy could reshape our future amid chaos. From heartbreak to hope, join Alvin as he cuts through the noise with clarity and compassion. &#x1f4a1; Listen, engage, and stay informed. Follow us for daily insights! #WorldNews #UNNews #GlobalCrisis #PeaceTalks #CurrentEvents &#x1f514; Subscribe &amp; comment with your thoughts—what hit home today? ✨ Links below for more insights. Stay curious!</itunes:summary>
+      <itunes:subtitle>&#x1f3a7; Dive into today’s pivotal moments: Dec 4, 2025…</itunes:subtitle>
+      <description>&#x1f3a7; Dive into today’s pivotal moments: Dec 4, 2025, with Greenground! &#x1f30d; UN’s bold demand on Ukrainian children, crises in Sudan &amp; Gaza, plus US-Russia nuclear tensions. Discover how education &amp; diplomacy could reshape our future amid chaos. From heartbreak to hope, join Alvin as he cuts through the noise with clarity and compassion. &#x1f4a1; Listen, engage, and stay informed. Follow us for daily insights! #WorldNews #UNNews #GlobalCrisis #PeaceTalks #CurrentEvents &#x1f514; Subscribe &amp; comment with your thoughts—what hit home today? ✨ Links below for more insights. Stay curious!</description>
+      <enclosure length="1227740" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2223716237-greengroundit-un-demands-global-crises-hope.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2223160019</guid>
       <title>Global Geopolitics Crisis: NATO vs Russia Dec 2025 - World Peace Future #Geopolitics #WorldPeace</title>
