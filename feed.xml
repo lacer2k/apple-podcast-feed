@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Sat, 06 Dec 2025 10:01:04 +0000</pubDate>
-    <lastBuildDate>Sat, 06 Dec 2025 10:01:04 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Dec 2025 10:02:08 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Dec 2025 10:02:08 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2225472443</guid>
+      <title>Global Crises 2025: Indonesia Floods &amp; Ukraine Conflict Insights #CurrentEvents #GlobalNews</title>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-crises-2025-indonesia</link>
+      <itunes:duration>00:05:49</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d; Dive deep into the heart of today’s pivotal stories! Experience a hard-hitting, insightful update covering Indonesia’s tragic floods, ongoing Ukraine conflict, Iran’s strategic naval drills, and more. Witness peace strides in Africa, India-US trade discussions, and the aftermath of Alaska’s massive quake. Explore the humanitarian crisis in the West Bank, Hamas’s disarmament talks, Sino-Russian military exercises, and playwright Jeremy O. Harris’s surprising arrest in Japan. &#x1f399;️ Stay ahead with crucial insights on global security and diplomacy. Hit play and be part of the global conversation now! #GlobalNews #IndonesiaFloods #UkraineConflict #IranNavalDrills #IndiaUSTrade</itunes:summary>
+      <itunes:subtitle>&#x1f30d; Dive deep into the heart of today’s pivotal st…</itunes:subtitle>
+      <description>&#x1f30d; Dive deep into the heart of today’s pivotal stories! Experience a hard-hitting, insightful update covering Indonesia’s tragic floods, ongoing Ukraine conflict, Iran’s strategic naval drills, and more. Witness peace strides in Africa, India-US trade discussions, and the aftermath of Alaska’s massive quake. Explore the humanitarian crisis in the West Bank, Hamas’s disarmament talks, Sino-Russian military exercises, and playwright Jeremy O. Harris’s surprising arrest in Japan. &#x1f399;️ Stay ahead with crucial insights on global security and diplomacy. Hit play and be part of the global conversation now! #GlobalNews #IndonesiaFloods #UkraineConflict #IranNavalDrills #IndiaUSTrade</description>
+      <enclosure length="2097500" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2225472443-greengroundit-global-crises-2025-indonesia.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2225004617</guid>
       <title>India-Russia Trade Deal Breakdown &amp; UK Sanctions Unveiled | Dec 6, 2025 #GlobalNews #PeaceTalks</title>
