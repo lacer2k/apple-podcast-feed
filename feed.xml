@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Mon, 08 Dec 2025 10:03:45 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Dec 2025 10:03:45 +0000</lastBuildDate>
+    <pubDate>Tue, 09 Dec 2025 10:04:01 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Dec 2025 10:04:01 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2226595349</guid>
+      <title>Global Pulse: Earthquake, Conflict &amp; Diplomacy Impact Dec 2025 #GlobalPulse #Earthquake #Diplomacy</title>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-pulse-earthquake</link>
+      <itunes:duration>00:04:40</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>**Description:** Experience the global pulse: from a 7.5 earthquake in Japan shaking perspectives, to the EU’s pivotal migration policy change. Explore the Myanmar airstrikes’ tragic impact, Ukraine’s peace dialogues, and rising Yemen tensions. Stay informed on Oslo security alerts, US visa policy shifts, and US-India-Europe trade talks. Dive into the intricate dance of international diplomacy, resilience, and human rights fueling today’s world. Watch for deep insights and stories that matter. Like, comment, and subscribe for daily updates and share your thoughts! &#x1f3a7; #GlobalNews #EarthquakeJapan #MigrationPolicy #MyanmarConflict #UkrainePeace</itunes:summary>
+      <itunes:subtitle>**Description:** Experience the global pulse: fro…</itunes:subtitle>
+      <description>**Description:** Experience the global pulse: from a 7.5 earthquake in Japan shaking perspectives, to the EU’s pivotal migration policy change. Explore the Myanmar airstrikes’ tragic impact, Ukraine’s peace dialogues, and rising Yemen tensions. Stay informed on Oslo security alerts, US visa policy shifts, and US-India-Europe trade talks. Dive into the intricate dance of international diplomacy, resilience, and human rights fueling today’s world. Watch for deep insights and stories that matter. Like, comment, and subscribe for daily updates and share your thoughts! &#x1f3a7; #GlobalNews #EarthquakeJapan #MigrationPolicy #MyanmarConflict #UkrainePeace</description>
+      <enclosure length="1683644" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2226595349-greengroundit-global-pulse-earthquake.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2225952356</guid>
       <title>Thai-Cambodian Conflict Erupts Again: Global Tensions Soar #GlobalCrisis2025 #WorldNews</title>
