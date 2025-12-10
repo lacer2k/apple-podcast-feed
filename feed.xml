@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Tue, 09 Dec 2025 10:04:01 +0000</pubDate>
-    <lastBuildDate>Tue, 09 Dec 2025 10:04:01 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Dec 2025 10:03:04 +0000</pubDate>
+    <lastBuildDate>Wed, 10 Dec 2025 10:03:04 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2227156442</guid>
+      <title>Global Crisis &amp; Resilience: Greenground Monologue Dec 2025 #GlobalCrisis #Resilience</title>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-crisis-resilience</link>
+      <itunes:duration>00:05:51</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Experience the pulse of global events with today’s Greenground Monologue: December 2025 highlights. &#x1f30d;✊ From NATO’s maneuvers in Eastern Europe and Ukraine’s brave defiance to the wrath of Cyclone Ditwah in Sri Lanka and India, we cover it all. Discover intense Southeast Asia clashes, Haiti’s growing gang turmoil, landmark global crime rulings, and Australia’s bold social media ban for teens. Witness the synergy between global powers, human rights, and climate turmoil in action. Dive in, leave your thoughts, and subscribe to stay ahead! &#x1f680; #GlobalNews #UkraineConflict #ClimateDisaster #HumanRights #NATO</itunes:summary>
+      <itunes:subtitle>Experience the pulse of global events with today’…</itunes:subtitle>
+      <description>Experience the pulse of global events with today’s Greenground Monologue: December 2025 highlights. &#x1f30d;✊ From NATO’s maneuvers in Eastern Europe and Ukraine’s brave defiance to the wrath of Cyclone Ditwah in Sri Lanka and India, we cover it all. Discover intense Southeast Asia clashes, Haiti’s growing gang turmoil, landmark global crime rulings, and Australia’s bold social media ban for teens. Witness the synergy between global powers, human rights, and climate turmoil in action. Dive in, leave your thoughts, and subscribe to stay ahead! &#x1f680; #GlobalNews #UkraineConflict #ClimateDisaster #HumanRights #NATO</description>
+      <enclosure length="2107004" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2227156442-greengroundit-global-crisis-resilience.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2226595349</guid>
       <title>Global Pulse: Earthquake, Conflict &amp; Diplomacy Impact Dec 2025 #GlobalPulse #Earthquake #Diplomacy</title>
