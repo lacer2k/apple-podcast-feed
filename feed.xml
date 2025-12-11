@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Wed, 10 Dec 2025 10:03:04 +0000</pubDate>
-    <lastBuildDate>Wed, 10 Dec 2025 10:03:04 +0000</lastBuildDate>
+    <pubDate>Thu, 11 Dec 2025 10:01:44 +0000</pubDate>
+    <lastBuildDate>Thu, 11 Dec 2025 10:01:44 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2227739612</guid>
+      <title>Global Upheavals &amp; Resilience: December 2025 News Insights #GlobalNews #ClimateC</title>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-upheavals-resilience</link>
+      <itunes:duration>00:06:43</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30e; Global Upheavals &amp; Resilience: Breaking News &amp; Insights &#x1f30d; Dec 11, 2025 - Dive into today’s pressing global stories shaping our world! From devastating floods in Indonesia, political standoffs in Guinea-Bissau, and Canada’s new EU defense pact, to legal controversies and Ukraine peace efforts. Discover insights on US-Honduras relations, Thailand’s human rights, and more! Stay informed, connected, and reflect on justice, accountability, and hope amid these global challenges. Like, comment, subscribe, and join the conversation! Watch now and share your thoughts! &#x1f4fa;✨ #GlobalNews #ClimateCrisis #Geopolitics #HumanRights #InternationalRelations</itunes:summary>
+      <itunes:subtitle>&#x1f30e; Global Upheavals &amp; Resilience: Breaking News &amp;…</itunes:subtitle>
+      <description>&#x1f30e; Global Upheavals &amp; Resilience: Breaking News &amp; Insights &#x1f30d; Dec 11, 2025 - Dive into today’s pressing global stories shaping our world! From devastating floods in Indonesia, political standoffs in Guinea-Bissau, and Canada’s new EU defense pact, to legal controversies and Ukraine peace efforts. Discover insights on US-Honduras relations, Thailand’s human rights, and more! Stay informed, connected, and reflect on justice, accountability, and hope amid these global challenges. Like, comment, subscribe, and join the conversation! Watch now and share your thoughts! &#x1f4fa;✨ #GlobalNews #ClimateCrisis #Geopolitics #HumanRights #InternationalRelations</description>
+      <enclosure length="2420348" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2227739612-greengroundit-global-upheavals-resilience.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2227156442</guid>
       <title>Global Crisis &amp; Resilience: Greenground Monologue Dec 2025 #GlobalCrisis #Resilience</title>
