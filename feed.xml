@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Fri, 12 Dec 2025 07:03:05 +0000</pubDate>
-    <lastBuildDate>Fri, 12 Dec 2025 07:03:05 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Dec 2025 10:01:58 +0000</pubDate>
+    <lastBuildDate>Mon, 15 Dec 2025 10:01:58 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,48 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2229900245</guid>
+      <title>Global Turning Points: Alvin’s Insight - Dec 15, 2025 #NewsRecap #DailyNews #BondiShoot</title>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-turning-points-alvins</link>
+      <itunes:duration>00:04:16</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d; Tune in to Alvin on the World’s Turning Points — Dec 15, 2025! &#x1f30d; Get the pulse on today’s global headlines with an urgent and heartfelt update. From the shocking Bondi Hanukkah attack in Sydney, Zelenskyy’s bold Ukraine proposal, and the release of Belarus political prisoners, to US troop losses in Syria, Southeast Asian border clashes, and catastrophic Indonesian floods. Uncover eyewitness details, deep analysis, and the quiet acts of courage. Let’s foster everyday heroes together. Hit play now to stay informed, moved, and ready to engage! #NewsRecap #DailyNews #BondiShooting #HanukkahAttack #UkraineUpdate</itunes:summary>
+      <itunes:subtitle>&#x1f30d; Tune in to Alvin on the World’s Turning Points…</itunes:subtitle>
+      <description>&#x1f30d; Tune in to Alvin on the World’s Turning Points — Dec 15, 2025! &#x1f30d; Get the pulse on today’s global headlines with an urgent and heartfelt update. From the shocking Bondi Hanukkah attack in Sydney, Zelenskyy’s bold Ukraine proposal, and the release of Belarus political prisoners, to US troop losses in Syria, Southeast Asian border clashes, and catastrophic Indonesian floods. Uncover eyewitness details, deep analysis, and the quiet acts of courage. Let’s foster everyday heroes together. Hit play now to stay informed, moved, and ready to engage! #NewsRecap #DailyNews #BondiShooting #HanukkahAttack #UkraineUpdate</description>
+      <enclosure length="1538204" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2229900245-greengroundit-global-turning-points-alvins.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2229438476</guid>
+      <title>Global Conflicts &amp; Hope: Morning Reflections 12/14/25 #GlobalIssues #Hope #SundayThoughts</title>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-conflicts-hope-morning</link>
+      <itunes:duration>00:06:06</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Good morning reflections — &#x1f4ad; Sunday, December 14, 2025. &#x1f30d; Dive into a powerful monologue with Alvin from Greenground as he delves into the heart of today’s global conflicts and human resilience. Explore everything from Ukraine’s energy grid challenges and Southeast Asia’s tension to hopeful releases in Belarus and environmental victories. &#x1f30f; Let’s connect the dots between headlines and our human stories, sparking change and compassion. Hit like, share your thoughts, and subscribe! #WorldNews #SundayReflection #UkraineWar #HumanitarianCrisis #Resilience #Hope</itunes:summary>
+      <itunes:subtitle>Good morning reflections — &#x1f4ad; Sunday, December 14…</itunes:subtitle>
+      <description>Good morning reflections — &#x1f4ad; Sunday, December 14, 2025. &#x1f30d; Dive into a powerful monologue with Alvin from Greenground as he delves into the heart of today’s global conflicts and human resilience. Explore everything from Ukraine’s energy grid challenges and Southeast Asia’s tension to hopeful releases in Belarus and environmental victories. &#x1f30f; Let’s connect the dots between headlines and our human stories, sparking change and compassion. Hit like, share your thoughts, and subscribe! #WorldNews #SundayReflection #UkraineWar #HumanitarianCrisis #Resilience #Hope</description>
+      <enclosure length="2198012" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2229438476-greengroundit-global-conflicts-hope-morning.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2229002876</guid>
+      <title>Drones, Detentions &amp; Defiance: Global News Unraveled - Dec 13, 2025 #RussiaUkraineWar #Narge</title>
+      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/drones-detentions-defiance</link>
+      <itunes:duration>00:06:23</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Drones, Detentions &amp; Defiance: Global News Unraveled – Dec 13, 2025. &#x1f1fa;&#x1f1e6; Russia downs Ukrainian drones as U.S. peace efforts unfold; Kremlin eyes Donbas police talks. #RussiaUkraineWar &#x1f494; Nobel laureate Narges Mohammadi detained in Iran sparks human rights outrage. #NargesMohammadi ✝️ Pope urges Italian ethics in global crisis. #PopeEthics &#x1f4da; Auschwitz exhibit exposes Holocaust truths. #AuschwitzExhibit &#x1f622; Nigerian school’s dark tale of survival. #NigeriaSchoolAttack &#x1f525; Odesa ablaze post-Putin-Erdogan summit; #resilience in U.S.-Japan drills. Designed for passionate news enthusiasts craving depth, compassion, and inspiration. Share your thoughts, &amp; hit like! &#x1f3a7; &#x1f4f0;</itunes:summary>
+      <itunes:subtitle>Drones, Detentions &amp; Defiance: Global News Unrave…</itunes:subtitle>
+      <description>Drones, Detentions &amp; Defiance: Global News Unraveled – Dec 13, 2025. &#x1f1fa;&#x1f1e6; Russia downs Ukrainian drones as U.S. peace efforts unfold; Kremlin eyes Donbas police talks. #RussiaUkraineWar &#x1f494; Nobel laureate Narges Mohammadi detained in Iran sparks human rights outrage. #NargesMohammadi ✝️ Pope urges Italian ethics in global crisis. #PopeEthics &#x1f4da; Auschwitz exhibit exposes Holocaust truths. #AuschwitzExhibit &#x1f622; Nigerian school’s dark tale of survival. #NigeriaSchoolAttack &#x1f525; Odesa ablaze post-Putin-Erdogan summit; #resilience in U.S.-Japan drills. Designed for passionate news enthusiasts craving depth, compassion, and inspiration. Share your thoughts, &amp; hit like! &#x1f3a7; &#x1f4f0;</description>
+      <enclosure length="2301980" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2229002876-greengroundit-drones-detentions-defiance.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2228400359</guid>
       <title>Global Fury Unleashed: Floods, Ukraine Talks &amp; Clashes Update Dec 1 #GlobalNews #UkrainePeace</title>
