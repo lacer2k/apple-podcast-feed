@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Mon, 15 Dec 2025 10:01:58 +0000</pubDate>
-    <lastBuildDate>Mon, 15 Dec 2025 10:01:58 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Dec 2025 10:02:19 +0000</pubDate>
+    <lastBuildDate>Tue, 16 Dec 2025 10:02:19 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2230584239</guid>
+      <title>Chilling Events: Bondi Massacre, Thailand-Cambodia War &amp; Indonesia Floods #WorldNews</title>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/chilling-events-bondi-massacre</link>
+      <itunes:duration>00:04:52</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f6a8; **Devastating news from Bondi Beach: mass shooting takes 15 lives, shocking Australia with antisemitic violence.** The Thailand-Cambodia border erupts into conflict as bombings threaten families. Meanwhile, Indonesia faces Cyclone Senyar’s wrath, with floods claiming 604 lives and leaving 464 missing. In the US, a New Year’s Eve bomb plot is thwarted, while the EU tightens the grip on Russian oil sanctions. Plus, Belarus releases a Nobel laureate. &#x1f30d; Dive into today’s essential global headlines with Alvin. What story impacts you most? Engage in the comments, LIKE to stay updated, SUBSCRIBE for daily insights, &amp; SHARE for wider awareness! #WorldNewsToday #AntisemiticAttack #BondiBeachShooting #ThailandCambodiaConflict #IndonesiaFloods #USNews #EUNews</itunes:summary>
+      <itunes:subtitle>&#x1f6a8; **Devastating news from Bondi Beach: mass shoo…</itunes:subtitle>
+      <description>&#x1f6a8; **Devastating news from Bondi Beach: mass shooting takes 15 lives, shocking Australia with antisemitic violence.** The Thailand-Cambodia border erupts into conflict as bombings threaten families. Meanwhile, Indonesia faces Cyclone Senyar’s wrath, with floods claiming 604 lives and leaving 464 missing. In the US, a New Year’s Eve bomb plot is thwarted, while the EU tightens the grip on Russian oil sanctions. Plus, Belarus releases a Nobel laureate. &#x1f30d; Dive into today’s essential global headlines with Alvin. What story impacts you most? Engage in the comments, LIKE to stay updated, SUBSCRIBE for daily insights, &amp; SHARE for wider awareness! #WorldNewsToday #AntisemiticAttack #BondiBeachShooting #ThailandCambodiaConflict #IndonesiaFloods #USNews #EUNews</description>
+      <enclosure length="1753052" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2230584239-greengroundit-chilling-events-bondi-massacre.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2229900245</guid>
       <title>Global Turning Points: Alvin’s Insight - Dec 15, 2025 #NewsRecap #DailyNews #BondiShoot</title>
