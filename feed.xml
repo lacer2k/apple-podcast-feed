@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Thu, 18 Dec 2025 19:01:53 +0000</pubDate>
-    <lastBuildDate>Thu, 18 Dec 2025 19:01:53 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Dec 2025 16:01:53 +0000</pubDate>
+    <lastBuildDate>Fri, 19 Dec 2025 16:01:53 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,24 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2232812966</guid>
+      <title>Diplomacy &amp; Global Crises: Morning Monologue - Dec 19, 2025 #UkraineW #Greenground</title>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/diplomacy-global-crises</link>
+      <itunes:duration>00:02:53</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d;&#x1f399;️ Dive into Alvin’s **Greenground Morning Monologue** for insightful takes on today’s pressing global stories: shifts in the Ukraine war during US-Russia talks, Venezuelan sanctions impacting lives, Bangladesh student protests, Australia’s gun buyback post-tragedy, and Black Sea drone tensions. Discover how diplomacy clashes with force in our restless world—perfect for starting your day informed and thoughtful. 
+
+Why watch? Get sharp analysis on **world news today**, **Ukraine war updates**, and **geopolitical tensions** without the hype. "War and negotiation move in parallel—here’s the uncomfortable truth." Elevate your grasp of **international conflicts** and **global diplomacy** in under 10 minutes. Like, comment on your top story, and subscribe for daily grounded insights! #UkraineWarUpdate #VenezuelaSanctions #BangladeshProtests #AustraliaGunBuyback #BlackSeaTensions</itunes:summary>
+      <itunes:subtitle>&#x1f30d;&#x1f399;️ Dive into Alvin’s **Greenground Morning Mon…</itunes:subtitle>
+      <description>&#x1f30d;&#x1f399;️ Dive into Alvin’s **Greenground Morning Monologue** for insightful takes on today’s pressing global stories: shifts in the Ukraine war during US-Russia talks, Venezuelan sanctions impacting lives, Bangladesh student protests, Australia’s gun buyback post-tragedy, and Black Sea drone tensions. Discover how diplomacy clashes with force in our restless world—perfect for starting your day informed and thoughtful. 
+
+Why watch? Get sharp analysis on **world news today**, **Ukraine war updates**, and **geopolitical tensions** without the hype. "War and negotiation move in parallel—here’s the uncomfortable truth." Elevate your grasp of **international conflicts** and **global diplomacy** in under 10 minutes. Like, comment on your top story, and subscribe for daily grounded insights! #UkraineWarUpdate #VenezuelaSanctions #BangladeshProtests #AustraliaGunBuyback #BlackSeaTensions</description>
+      <enclosure length="1038812" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2232812966-greengroundit-diplomacy-global-crises.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2232240122</guid>
       <title>Global Ripples: Ukraine-Russia Crisis, Energy Sanctions &amp; Election Impact #GlobalNews #CurrentEvents</title>
