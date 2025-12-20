@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Fri, 19 Dec 2025 16:01:53 +0000</pubDate>
-    <lastBuildDate>Fri, 19 Dec 2025 16:01:53 +0000</lastBuildDate>
+    <pubDate>Sat, 20 Dec 2025 10:02:42 +0000</pubDate>
+    <lastBuildDate>Sat, 20 Dec 2025 10:02:42 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2233245989</guid>
+      <title>World on Edge: Global Risks &amp; Power Shifts Analyzed #News #WorldEvents #GreengroundNews</title>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/world-on-edge-global-risks</link>
+      <itunes:duration>00:02:57</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f30d; Dive into the dynamic world of global politics with "World on Edge." &#x1f310; Uncover the interconnected stories of wars, power shifts, and emerging risks reshaping our planet. From Ukraine to Asia, this December 20, 2025 episode offers insights into how these events affect markets and daily life. Listen now and gain context, strategy, and a perspective for our changing world. &#x1f3a7; #GlobalPolitics #Geopolitics #WorldNews #GlobalRisk #Greenground</itunes:summary>
+      <itunes:subtitle>&#x1f30d; Dive into the dynamic world of global politics…</itunes:subtitle>
+      <description>&#x1f30d; Dive into the dynamic world of global politics with "World on Edge." &#x1f310; Uncover the interconnected stories of wars, power shifts, and emerging risks reshaping our planet. From Ukraine to Asia, this December 20, 2025 episode offers insights into how these events affect markets and daily life. Listen now and gain context, strategy, and a perspective for our changing world. &#x1f3a7; #GlobalPolitics #Geopolitics #WorldNews #GlobalRisk #Greenground</description>
+      <enclosure length="1064588" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2233245989-greengroundit-world-on-edge-global-risks.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2232812966</guid>
       <title>Diplomacy &amp; Global Crises: Morning Monologue - Dec 19, 2025 #UkraineW #Greenground</title>
