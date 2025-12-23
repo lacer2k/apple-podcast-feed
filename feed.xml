@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Mon, 22 Dec 2025 07:01:59 +0000</pubDate>
-    <lastBuildDate>Mon, 22 Dec 2025 07:01:59 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Dec 2025 07:02:24 +0000</pubDate>
+    <lastBuildDate>Tue, 23 Dec 2025 07:02:24 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2234933153</guid>
+      <title>Ukraine Updates, Flood Crisis &amp; Diplomatic Moves - Global News | Dec 23 2025 #InternationalNews</title>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/ukraine-updates-flood-crisis</link>
+      <itunes:duration>00:06:39</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f6a8;✨ **Dive into Global Headlines with Alvin!** &#x1f30d;&#x1f399;️ Delve into December 23, 2025, as we unpack today’s pivotal stories: the Ukraine-Russia conflict, Thailand’s diplomatic turns, Indonesia’s catastrophic floods, and Belarus’s surprise prisoner releases. Uncover the stories shaping our complex world—where fragility meets resilience. &#x1f310;&#x1f6e4;️**Listen now** for compelling narratives that merge conflict, diplomacy, and hope. Perfect for global news enthusiasts seeking intricate storytelling on pressing world affairs. &#x1f30e;&#x1f4d6; #GlobalNewsDigest #InternationalAffairs #UkraineRussia #FloodDisasters # DiplomacyMatters #BreakingNews #WorldStories</itunes:summary>
+      <itunes:subtitle>&#x1f6a8;✨ **Dive into Global Headlines with Alvin!** &#x1f30d;…</itunes:subtitle>
+      <description>&#x1f6a8;✨ **Dive into Global Headlines with Alvin!** &#x1f30d;&#x1f399;️ Delve into December 23, 2025, as we unpack today’s pivotal stories: the Ukraine-Russia conflict, Thailand’s diplomatic turns, Indonesia’s catastrophic floods, and Belarus’s surprise prisoner releases. Uncover the stories shaping our complex world—where fragility meets resilience. &#x1f310;&#x1f6e4;️**Listen now** for compelling narratives that merge conflict, diplomacy, and hope. Perfect for global news enthusiasts seeking intricate storytelling on pressing world affairs. &#x1f30e;&#x1f4d6; #GlobalNewsDigest #InternationalAffairs #UkraineRussia #FloodDisasters # DiplomacyMatters #BreakingNews #WorldStories</description>
+      <enclosure length="2395292" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2234933153-greengroundit-ukraine-updates-flood-crisis.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2234130029</guid>
       <title>Global Crisis &amp; Hope: SE Asia Floods, Ukraine Talks &amp; News Update | Dec 2 #WorldNews #PeaceMatters</title>
