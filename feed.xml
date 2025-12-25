@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Wed, 24 Dec 2025 13:17:41 +0000</pubDate>
-    <lastBuildDate>Wed, 24 Dec 2025 13:17:41 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Dec 2025 10:01:19 +0000</pubDate>
+    <lastBuildDate>Thu, 25 Dec 2025 10:01:19 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2236096160</guid>
+      <title>Alvin on Greenground: World News &amp; Hopeful Moments | Dec 25, 2025 #GreengroundNews #GlobalHope</title>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/alvin-on-greenground-world</link>
+      <itunes:duration>00:03:06</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Dive into Alvin on Greenground’s electrifying World News Roundup, where compassion meets action! Discover December 25, 2025’s crucial global updates: Gaza’s truce and humanitarian strides, Ukraine’s hopeful peace plan, and heartening moments of displaced families celebrating Christmas. From rising tensions in Rafah to Honduras’s political drama, Libya’s aviation tragedy, the Sahel’s new security pact, Indonesian floods, and political ripples from Brazil to Belarus—stay informed, engaged, and empowered. Your portal to understanding today’s world, with concise insights and calls to make a difference. #GreengroundNews #GlobalRoundup #GazaCeasefire #UkrainePeacePlan</itunes:summary>
+      <itunes:subtitle>Dive into Alvin on Greenground’s electrifying Wor…</itunes:subtitle>
+      <description>Dive into Alvin on Greenground’s electrifying World News Roundup, where compassion meets action! Discover December 25, 2025’s crucial global updates: Gaza’s truce and humanitarian strides, Ukraine’s hopeful peace plan, and heartening moments of displaced families celebrating Christmas. From rising tensions in Rafah to Honduras’s political drama, Libya’s aviation tragedy, the Sahel’s new security pact, Indonesian floods, and political ripples from Brazil to Belarus—stay informed, engaged, and empowered. Your portal to understanding today’s world, with concise insights and calls to make a difference. #GreengroundNews #GlobalRoundup #GazaCeasefire #UkrainePeacePlan</description>
+      <enclosure length="1120748" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2236096160-greengroundit-alvin-on-greenground-world.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2235688340</guid>
       <title>Heartfelt Christmas Wishes for a Joyful Season #ChristmasWishes #SeasonGreetings #HolidayMes</title>
