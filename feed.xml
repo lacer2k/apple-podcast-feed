@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Fri, 26 Dec 2025 10:03:36 +0000</pubDate>
-    <lastBuildDate>Fri, 26 Dec 2025 10:03:36 +0000</lastBuildDate>
+    <pubDate>Sat, 27 Dec 2025 10:02:30 +0000</pubDate>
+    <lastBuildDate>Sat, 27 Dec 2025 10:02:30 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,20 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2237194880</guid>
+      <title>Global Update: Storms Disrupt, US Strikes ISIS, Ukraine Peace Hopes #Greenground #GlobalNews</title>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/global-update-storms-disrupt</link>
+      <itunes:duration>00:02:51</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Dive into Greenground Global Update: Dec 27, 2025! &#x1f30d;✈️&#x1f329;️ Unwrap news nuggets: Midwest’s icy airport chaos, US-led ISIS smackdown over Xmas, Zelenskyy’s audacious peace path, Japan’s defense boom, and China’s US arm embargo. Join Alvin for the ultimate world reel from 1,100+ abandoned flights to Tomahawk terror tamer, amidst Russian drone angst—navigate resilience, friction, and tomorrow’s waves. Ideal for current maven moods! Stream this must-watch for unfiltered insights, drop your thoughts on strikes or peace moves, and don’t miss subscribing for info feeds! #WorldNews2025 #GreengroundUpdate #USISISStrike #UkrainePeacePlan #WinterStormChaos</itunes:summary>
+      <itunes:subtitle>Dive into Greenground Global Update: Dec 27, 2025…</itunes:subtitle>
+      <description>Dive into Greenground Global Update: Dec 27, 2025! &#x1f30d;✈️&#x1f329;️ Unwrap news nuggets: Midwest’s icy airport chaos, US-led ISIS smackdown over Xmas, Zelenskyy’s audacious peace path, Japan’s defense boom, and China’s US arm embargo. Join Alvin for the ultimate world reel from 1,100+ abandoned flights to Tomahawk terror tamer, amidst Russian drone angst—navigate resilience, friction, and tomorrow’s waves. Ideal for current maven moods! Stream this must-watch for unfiltered insights, drop your thoughts on strikes or peace moves, and don’t miss subscribing for info feeds! #WorldNews2025 #GreengroundUpdate #USISISStrike #UkrainePeacePlan #WinterStormChaos</description>
+      <enclosure length="1027724" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2237194880-greengroundit-global-update-storms-disrupt.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2236731974</guid>
       <title>Global Chaos: Strikes, Submarines &amp; Crashes Dec 26 2025 #NigeriaAi</title>
