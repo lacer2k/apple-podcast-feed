@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Mon, 29 Dec 2025 10:02:55 +0000</pubDate>
-    <lastBuildDate>Mon, 29 Dec 2025 10:02:55 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Dec 2025 16:19:34 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Dec 2025 16:19:34 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,48 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2238994028</guid>
+      <title>Unlocking Consent Revolution with CONSENSO.ONLINE #ConsentMatters #EmpowermentNow</title>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/unlocking-consent-revolution</link>
+      <itunes:duration>00:01:03</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f50a; Discover the Future of Consent: Introducing CONSENSO.ONLINE &#x1f389; Consent isn’t just a detail—it’s a conscious, free choice! In Italy, the discussion on sexual consent is evolving. Meet CONSENSO.ONLINE, your go-to platform for clarity, responsibility, and respect. &#x1f6e1;️ Explore how to understand, communicate, and protect consent in today’s world. Check out our new app and join us in fostering a culture of free and informed consent. &#x1f310; Dive into our informative portal now and be a part of the change. Experience the app today! &#x1f449; https://app.consenso.online/ #consenso #soloèssisì #diritti #rispetto #consapevolezza</itunes:summary>
+      <itunes:subtitle>&#x1f50a; Discover the Future of Consent: Introducing CO…</itunes:subtitle>
+      <description>&#x1f50a; Discover the Future of Consent: Introducing CONSENSO.ONLINE &#x1f389; Consent isn’t just a detail—it’s a conscious, free choice! In Italy, the discussion on sexual consent is evolving. Meet CONSENSO.ONLINE, your go-to platform for clarity, responsibility, and respect. &#x1f6e1;️ Explore how to understand, communicate, and protect consent in today’s world. Check out our new app and join us in fostering a culture of free and informed consent. &#x1f310; Dive into our informative portal now and be a part of the change. Experience the app today! &#x1f449; https://app.consenso.online/ #consenso #soloèssisì #diritti #rispetto #consapevolezza</description>
+      <enclosure length="381020" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2238994028-greengroundit-unlocking-consent-revolution.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2238909632</guid>
+      <title>Greenground Daily Briefing on World Affairs Dec 30 2025 #GlobalNews #WorldAffairs #Geopolitics</title>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/greenground-daily-briefing-on</link>
+      <itunes:duration>00:01:11</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Dive into today’s Greenground Daily Briefing with Alvin as he unravels the threads of our global landscape! &#x1f30d;✨ From U.S. diplomacy to Ukraine’s future, Mexico’s railway tragedy to Eastern Europe’s glimmer of hope, discover how high-stakes decisions impact real lives. Connect the dots behind the headlines and explore why context is crucial. Join us for elegant analysis shaping our world! &#x1f310;&#x1f50d; #Greenground #GlobalNews #WorldAffairs #Geopolitics #HumanRights #StayInformed #StayCurious</itunes:summary>
+      <itunes:subtitle>Dive into today’s Greenground Daily Briefing with…</itunes:subtitle>
+      <description>Dive into today’s Greenground Daily Briefing with Alvin as he unravels the threads of our global landscape! &#x1f30d;✨ From U.S. diplomacy to Ukraine’s future, Mexico’s railway tragedy to Eastern Europe’s glimmer of hope, discover how high-stakes decisions impact real lives. Connect the dots behind the headlines and explore why context is crucial. Join us for elegant analysis shaping our world! &#x1f310;&#x1f50d; #Greenground #GlobalNews #WorldAffairs #Geopolitics #HumanRights #StayInformed #StayCurious</description>
+      <enclosure length="429404" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2238909632-greengroundit-greenground-daily-briefing-on.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2238845795</guid>
+      <title>Taylor Swift &amp; Travis Kelce: Hot Gossip Poll #Swelce #CelebrityGossip</title>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/taylor-swift-travis-kelce-hot</link>
+      <itunes:duration>00:00:10</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Uncover the juiciest buzz in our Taylor Swift &amp; Travis Kelce poll! Dive into the drama sparked by Page Six, and spill the tea on their relationship tension. Cast your vote now! &#x1f3a4;&#x1f3c8; #Swelce #TaylorSwift #TravisKelce #CelebrityGossip #HotTopic #Trending #PopCulture #DramaAlert #MusicNews #NFLStar</itunes:summary>
+      <itunes:subtitle>Uncover the juiciest buzz in our Taylor Swift &amp; T…</itunes:subtitle>
+      <description>Uncover the juiciest buzz in our Taylor Swift &amp; Travis Kelce poll! Dive into the drama sparked by Page Six, and spill the tea on their relationship tension. Cast your vote now! &#x1f3a4;&#x1f3c8; #Swelce #TaylorSwift #TravisKelce #CelebrityGossip #HotTopic #Trending #PopCulture #DramaAlert #MusicNews #NFLStar</description>
+      <enclosure length="61114" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2238845795-greengroundit-taylor-swift-travis-kelce-hot.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2238082853</guid>
       <title>Trump-Zelenskyy Peace Breakthrough at Mar-a-Lago Global Tensions Update #December2023 #Politics</title>
