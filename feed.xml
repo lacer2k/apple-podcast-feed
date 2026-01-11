@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Sat, 10 Jan 2026 16:14:14 +0000</pubDate>
-    <lastBuildDate>Sat, 10 Jan 2026 16:14:14 +0000</lastBuildDate>
+    <pubDate>Sun, 11 Jan 2026 12:01:58 +0000</pubDate>
+    <lastBuildDate>Sun, 11 Jan 2026 12:01:58 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,48 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2245495559</guid>
+      <title>Rihanna’s Fashion Surprise &#x1f457;</title>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/rihannas-fashion-surprise</link>
+      <itunes:duration>00:01:05</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Rihanna’s Fashion Surprise &#x1f457;</itunes:summary>
+      <itunes:subtitle>Rihanna’s Fashion Surprise &#x1f457;</itunes:subtitle>
+      <description>Rihanna’s Fashion Surprise &#x1f457;</description>
+      <enclosure length="1048275" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2245495559-greengroundit-rihannas-fashion-surprise.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2245437185</guid>
+      <title>Porsha’s Love Revelation: Healing Through Visibility</title>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/porshas-love-revelation</link>
+      <itunes:duration>00:04:41</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Porsha’s Love Revelation: Healing Through Visibility</itunes:summary>
+      <itunes:subtitle>Porsha’s Love Revelation: Healing Through Visibil…</itunes:subtitle>
+      <description>Porsha’s Love Revelation: Healing Through Visibility</description>
+      <enclosure length="4509651" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2245437185-greengroundit-porshas-love-revelation.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2245422875</guid>
+      <title>11c98b8e13cb44b2bef33a96d760692d</title>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/11c98b8e13cb44b2bef33a96d76069</link>
+      <itunes:duration>00:02:29</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>11c98b8e13cb44b2bef33a96d760692d</itunes:summary>
+      <itunes:subtitle>11c98b8e13cb44b2bef33a96d760692d</itunes:subtitle>
+      <description>11c98b8e13cb44b2bef33a96d760692d</description>
+      <enclosure length="2398035" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2245422875-greengroundit-11c98b8e13cb44b2bef33a96d76069.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2244972134</guid>
       <title>Taylor x Travis: Love Story</title>
@@ -181,6 +223,20 @@
       <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
     </item>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2245441022</guid>
+      <title>Vibe to the Beat: Chill Electronic Grooves &#x1f3b6; #ChillBeats #ElectronicMusic #Soundcloud</title>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/vibe-to-the-beat-chill</link>
+      <itunes:duration>00:02:04</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Discover new vibes with my latest track, bursting with energy and innovation. Let the beats take you on a journey! &#x1f3b6; #NewMusic #Soundcloud #ElectronicDance #Vibes #MusicLovers</itunes:summary>
+      <itunes:subtitle>Discover new vibes with my latest track, bursting…</itunes:subtitle>
+      <description>Discover new vibes with my latest track, bursting with energy and innovation. Let the beats take you on a journey! &#x1f3b6; #NewMusic #Soundcloud #ElectronicDance #Vibes #MusicLovers</description>
+      <enclosure length="745827" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2245441022-greengroundit-vibe-to-the-beat-chill.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
+    <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2245114754</guid>
       <title>Ukraine’s Peace Talks: Exploring War’s Impact #UkraineWar #PeaceTalks #ConflictResolution</title>
       <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
@@ -192,6 +248,20 @@
       <itunes:subtitle>Dive deep into #Ukraine’s journey towards peace i…</itunes:subtitle>
       <description>Dive deep into #Ukraine’s journey towards peace in "Ukraine’s Peace Talks: War’s Silent Toll." Explore the unspoken impacts of #war and the resilience that shines through. &#x1f3b6;&#x1f4ac; #Peace #Hope #ConflictResolution #Soundcloud #MusicForChange</description>
       <enclosure length="2195331" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2245114754-greengroundit-ukraines-peace-talks-exploring.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2245500146</guid>
+      <title>Epic Bass Drop! Feel the Energy of Electro Beats #BassBoost #ElectroVibes #SoundcloudMusic</title>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/epic-bass-drop-feel-the-energy</link>
+      <itunes:duration>00:02:18</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Vibe with my latest track - an electrifying journey through sound and emotion. Hit play, unwind, and lose yourself in the rhythm. &#x1f680;&#x1f3b6; #NewMusic #SoundJourney #VibeCheck #ExploreSound</itunes:summary>
+      <itunes:subtitle>Vibe with my latest track - an electrifying journ…</itunes:subtitle>
+      <description>Vibe with my latest track - an electrifying journey through sound and emotion. Hit play, unwind, and lose yourself in the rhythm. &#x1f680;&#x1f3b6; #NewMusic #SoundJourney #VibeCheck #ExploreSound</description>
+      <enclosure length="831651" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2245500146-greengroundit-epic-bass-drop-feel-the-energy.mp3" />
       <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
     </item>
     <item>
