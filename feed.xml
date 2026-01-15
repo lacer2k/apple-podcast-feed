@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Wed, 14 Jan 2026 13:48:01 +0000</pubDate>
-    <lastBuildDate>Wed, 14 Jan 2026 13:48:01 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Jan 2026 08:16:40 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Jan 2026 08:16:40 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,48 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2247781514</guid>
+      <title>Rising Star Drops Hit Track Get Ready to Vibe #NewMusic #IndieArtist</title>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/rising-star-drops-hit-track</link>
+      <itunes:duration>00:02:03</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Dive into sonic bliss with my latest track, blending soulful melodies and infectious beats. &#x1f3b6;✨ Let the rhythm guide you on a musical journey! #NewMusic #SoundCloud #ElectronicVibes #MusicLovers #IndieArtist #ChillBeats #MusicJourney</itunes:summary>
+      <itunes:subtitle>Dive into sonic bliss with my latest track, blend…</itunes:subtitle>
+      <description>Dive into sonic bliss with my latest track, blending soulful melodies and infectious beats. &#x1f3b6;✨ Let the rhythm guide you on a musical journey! #NewMusic #SoundCloud #ElectronicVibes #MusicLovers #IndieArtist #ChillBeats #MusicJourney</description>
+      <enclosure length="740787" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2247781514-greengroundit-rising-star-drops-hit-track.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2247777023</guid>
+      <title>Ken Sparks Drama with New Track #DramaAlert #NewMusic</title>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/ken-sparks-drama-with-new</link>
+      <itunes:duration>00:02:38</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f3a7; Dive into the beats and controversy with "Ken Stirs Drama"! Unleashing bold sounds and captivating rhythms, this track will keep you on the edge! &#x1f525; #NewMusic #SoundCloud #KenStirsDrama #Vibes #ListenNow</itunes:summary>
+      <itunes:subtitle>&#x1f3a7; Dive into the beats and controversy with "Ken …</itunes:subtitle>
+      <description>&#x1f3a7; Dive into the beats and controversy with "Ken Stirs Drama"! Unleashing bold sounds and captivating rhythms, this track will keep you on the edge! &#x1f525; #NewMusic #SoundCloud #KenStirsDrama #Vibes #ListenNow</description>
+      <enclosure length="950019" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2247777023-greengroundit-ken-sparks-drama-with-new.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2247776996</guid>
+      <title>Chill Beats of the Cold War Era &#x1f9ca;&#x1f3b6; #MemeDiplomacy #ColdWarVibes</title>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/chill-beats-of-the-cold-war</link>
+      <itunes:duration>00:01:39</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Dive into a sonic journey with "Meme Diplomacy: Cold War in Ice" – where icy beats meet the tension of a new sonic era. &#x1f3b6;&#x1f9ca; Uncover the unexpected fusion of humor and history through sound! #MemeDiplomacy #ColdWarVibes #ChillBeats #Soundcloud #MusicDiscovery</itunes:summary>
+      <itunes:subtitle>Dive into a sonic journey with "Meme Diplomacy: C…</itunes:subtitle>
+      <description>Dive into a sonic journey with "Meme Diplomacy: Cold War in Ice" – where icy beats meet the tension of a new sonic era. &#x1f3b6;&#x1f9ca; Uncover the unexpected fusion of humor and history through sound! #MemeDiplomacy #ColdWarVibes #ChillBeats #Soundcloud #MusicDiscovery</description>
+      <enclosure length="596355" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2247776996-greengroundit-chill-beats-of-the-cold-war.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2247316181</guid>
       <title>Greenland’s Sovereignty: A Geopolitical Showdown #Geopolitics #SovereigntyCrisis #Greenland</title>
