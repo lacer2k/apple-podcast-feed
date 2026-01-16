@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Thu, 15 Jan 2026 08:16:40 +0000</pubDate>
-    <lastBuildDate>Thu, 15 Jan 2026 08:16:40 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Jan 2026 17:50:18 +0000</pubDate>
+    <lastBuildDate>Fri, 16 Jan 2026 17:50:18 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,48 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2248735667</guid>
+      <title>Epic Sound Battle: Trump vs Techno Titans #EDM #TrumpMix</title>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/epic-sound-battle-trump-vs</link>
+      <itunes:duration>00:02:17</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Dive into the soundwaves of "Trump vs. NATO: Greenland Showdown," a riveting audio journey exploring geopolitical tensions and icy strategies. #GlobalPolitics #Diplomacy #GreenlandShowdown #Trump #NATO #Soundcloud</itunes:summary>
+      <itunes:subtitle>Dive into the soundwaves of "Trump vs. NATO: Gree…</itunes:subtitle>
+      <description>Dive into the soundwaves of "Trump vs. NATO: Greenland Showdown," a riveting audio journey exploring geopolitical tensions and icy strategies. #GlobalPolitics #Diplomacy #GreenlandShowdown #Trump #NATO #Soundcloud</description>
+      <enclosure length="827331" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2248735667-greengroundit-epic-sound-battle-trump-vs.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2248525925</guid>
+      <title>Gisele’s Dazzling New Year Mix | Uplifting Beats for 2024 #NewYear #PartyVibes</title>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/giseles-dazzling-new-year-mix</link>
+      <itunes:duration>00:03:10</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f389;✨ Ring in the New Year with "Gisele’s New Year Sparkle" – a dazzling blend of uplifting beats and shimmering melodies! Let these tunes light up your celebrations and set the perfect vibe for 2023. Listen now and feel the sparkle! ✨&#x1f3b6; #NewYear #GiseleMusic #Sparkle #UpliftYourMood #2023Beats #PartyVibes #ElectroMagic &#x1f31f;</itunes:summary>
+      <itunes:subtitle>&#x1f389;✨ Ring in the New Year with "Gisele’s New Year …</itunes:subtitle>
+      <description>&#x1f389;✨ Ring in the New Year with "Gisele’s New Year Sparkle" – a dazzling blend of uplifting beats and shimmering melodies! Let these tunes light up your celebrations and set the perfect vibe for 2023. Listen now and feel the sparkle! ✨&#x1f3b6; #NewYear #GiseleMusic #Sparkle #UpliftYourMood #2023Beats #PartyVibes #ElectroMagic &#x1f31f;</description>
+      <enclosure length="1141395" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2248525925-greengroundit-giseles-dazzling-new-year-mix.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2248477685</guid>
+      <title>Electrifying New Dance Track Drop &#x1f525;&#x1f3a7; #DanceMusic #NewRelease #Soundcloud</title>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/electrifying-new-dance-track</link>
+      <itunes:duration>00:02:28</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Dive into the beats and rhythm of my latest track! &#x1f3b5; Let the music take you on a journey. Hit play, vibe with me, and don’t forget to like and share! &#x1f31f;&#x1f3a7; #NewMusic #SoundCloud #MusicJourney #Vibes #ListenNow</itunes:summary>
+      <itunes:subtitle>Dive into the beats and rhythm of my latest track…</itunes:subtitle>
+      <description>Dive into the beats and rhythm of my latest track! &#x1f3b5; Let the music take you on a journey. Hit play, vibe with me, and don’t forget to like and share! &#x1f31f;&#x1f3a7; #NewMusic #SoundCloud #MusicJourney #Vibes #ListenNow</description>
+      <enclosure length="890115" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2248477685-greengroundit-electrifying-new-dance-track.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2247781514</guid>
       <title>Rising Star Drops Hit Track Get Ready to Vibe #NewMusic #IndieArtist</title>
