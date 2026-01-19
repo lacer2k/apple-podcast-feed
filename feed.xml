@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:1430002554/sounds.rss?before=1901742717" rel="next" type="application/rss+xml" />
     <title>Greenground // Soundcloud // Season 2</title>
     <link>https://www.acerbo.me/</link>
-    <pubDate>Sun, 18 Jan 2026 06:46:27 +0000</pubDate>
-    <lastBuildDate>Sun, 18 Jan 2026 06:46:27 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Jan 2026 06:46:34 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Jan 2026 06:46:34 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,34 @@
       <link>https://www.acerbo.me/</link>
     </image>
     <itunes:category text="News" />
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2250005468</guid>
+      <title>Port Charles Chaos Unfolds in Willow’s Verdict #Drama #AudioSeries #MustListen</title>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/port-charles-chaos-unfolds-in</link>
+      <itunes:duration>00:03:01</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Tune in now! &#x1f3b6; Discover "Willow’s Verdict: Port Charles in Turmoil" - an audio journey filled with suspense and emotion. Dive deep into the chaos of Port Charles and unravel secrets that will keep you hooked. Perfect for mystery lovers and thriller enthusiasts. &#x1f50d;✨ #SoundcloudExclusive #Mystery #Thriller #WillowsVerdict #PortCharles #NewRelease #MusicJourney #MustListen</itunes:summary>
+      <itunes:subtitle>Tune in now! &#x1f3b6; Discover "Willow’s Verdict: Port …</itunes:subtitle>
+      <description>Tune in now! &#x1f3b6; Discover "Willow’s Verdict: Port Charles in Turmoil" - an audio journey filled with suspense and emotion. Dive deep into the chaos of Port Charles and unravel secrets that will keep you hooked. Perfect for mystery lovers and thriller enthusiasts. &#x1f50d;✨ #SoundcloudExclusive #Mystery #Thriller #WillowsVerdict #PortCharles #NewRelease #MusicJourney #MustListen</description>
+      <enclosure length="1092003" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2250005468-greengroundit-port-charles-chaos-unfolds-in.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2250005384</guid>
+      <title>Epic Summer Beats Drop: Feel the Vibe #NewMusic #SummerVibes #SoundcloudHype</title>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/greengroundit/epic-summer-beats-drop-feel</link>
+      <itunes:duration>00:02:01</itunes:duration>
+      <itunes:author>Livio Andrea Acerbo</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>&#x1f31f; Dive into a sonic journey with my latest track that’s bound to captivate your soul! &#x1f3b6;&#x1f30c; Let the rhythms move you and the melodies take control. Your support means the world, so like, share, and let me know your thoughts! #NewMusic #SoundCloud #MusicJourney #Vibes #IndieArtist #ListenNow</itunes:summary>
+      <itunes:subtitle>&#x1f31f; Dive into a sonic journey with my latest track…</itunes:subtitle>
+      <description>&#x1f31f; Dive into a sonic journey with my latest track that’s bound to captivate your soul! &#x1f3b6;&#x1f30c; Let the rhythms move you and the melodies take control. Your support means the world, so like, share, and let me know your thoughts! #NewMusic #SoundCloud #MusicJourney #Vibes #IndieArtist #ListenNow</description>
+      <enclosure length="731859" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/2250005384-greengroundit-epic-summer-beats-drop-feel.mp3" />
+      <itunes:image href="https://i1.sndcdn.com/avatars-f9ufc7ak501gFrc2-WpzvZA-original.jpg" />
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2249522360</guid>
       <title>New Beats Alert Dive Into Fresh Vibes on Soundcloud #NewMusic #FreshBeats #Soundcloud</title>
