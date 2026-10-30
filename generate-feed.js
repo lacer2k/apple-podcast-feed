@@ -27,7 +27,7 @@ async function main() {
   channel['itunes:explicit'] = ['no'];
   channel['itunes:owner'] = [{
     'itunes:name': ['Livio Acerbo'],
-    'itunes:email': ['livioacerbo@mac.com']
+    'itunes:email': ['livio@acerbo.me'] // pragma: allowlist secret
   }];
 
   for (const item of channel.item) {
